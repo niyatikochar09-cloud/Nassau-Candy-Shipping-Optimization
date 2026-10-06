@@ -1,0 +1,17 @@
+Output_File,Status
+clean_nassau_dataset.csv,Created
+factory_coordinates.csv,Created
+product_factory_mapping.csv,Created
+route_cluster_profile.csv,Created
+route_cluster_assignments.csv,Created
+model_comparison.csv,Created
+route_level_performance.csv,Created
+factory_reallocation_scenarios.csv,Created
+refined_factory_recommendations.csv,Created
+final_factory_optimization_recommendations.csv,Created
+dashboard_ready_decision_table.csv,Created
+dashboard_scenario_matrix.csv,Created
+recommendation_system_kpis.csv,Created
+current_vs_optimized_state.csv,Created
+profit_stability_analysis.csv,Created
+factory_sensitivity_analysis.csv,Created

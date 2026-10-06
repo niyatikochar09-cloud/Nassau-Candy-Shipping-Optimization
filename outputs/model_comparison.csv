@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2_Score
+Linear Regression,181.3864,182.5092,0.529
+Random Forest Regressor,148.7718,177.1704,0.5562
+Gradient Boosting Regressor,159.8747,169.5915,0.5933

@@ -1,0 +1,54 @@
+Product_ID,Product_Name,Region,Records,Current_Predicted_Lead_Time,Candidate_Factory,Predicted_Lead_Time,Lead_Time_Reduction_Days,Optimized_Factory,Optimized_Lead_Time,Optimized_Reduction_Days
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,548,1317.29,Secret Factory,1311.9,5.39,Secret Factory,1311.9,5.389999999999873
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,291,1308.54,Secret Factory,1303.14,5.4,Secret Factory,1303.14,5.399999999999864
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,410,1310.92,Secret Factory,1305.5,5.42,Secret Factory,1305.5,5.420000000000073
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,569,1319.87,Secret Factory,1314.9,4.97,Secret Factory,1314.9,4.9699999999998
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,639,1309.52,Secret Factory,1303.51,6.01,Secret Factory,1303.51,6.009999999999991
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,333,1303.12,Secret Factory,1297.44,5.68,Secret Factory,1297.44,5.679999999999836
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,499,1323.62,Secret Factory,1318.22,5.4,Secret Factory,1318.22,5.399999999999864
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,666,1322.64,Secret Factory,1317.3,5.34,Secret Factory,1317.3,5.3400000000001455
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,490,1346.59,Secret Factory,1341.99,4.6,Secret Factory,1341.99,4.599999999999909
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,296,1321.5,Secret Factory,1316.03,5.47,Secret Factory,1316.03,5.470000000000027
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,452,1340.44,Secret Factory,1335.48,4.96,Secret Factory,1335.48,4.960000000000036
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,572,1311.9,Secret Factory,1306.26,5.64,Secret Factory,1306.26,5.6400000000001
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,623,1316.16,Secret Factory,1310.57,5.59,Secret Factory,1310.57,5.5900000000001455
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,310,1317.79,Secret Factory,1312.56,5.23,Secret Factory,1312.56,5.230000000000018
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,459,1333.52,Secret Factory,1328.73,4.79,Secret Factory,1328.73,4.789999999999964
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,672,1320.67,Secret Factory,1315.23,5.44,Secret Factory,1315.23,5.440000000000055
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,558,1321.67,Secret Factory,1316.53,5.14,Secret Factory,1316.53,5.1400000000001
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,330,1329.11,Secret Factory,1324.44,4.67,Secret Factory,1324.44,4.669999999999845
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,451,1321.53,Secret Factory,1316.65,4.88,Secret Factory,1316.65,4.879999999999882
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,676,1325.83,Secret Factory,1320.91,4.92,Secret Factory,1320.91,4.919999999999845
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,2,1491.39,,,,Current Factory,1491.39,0.0
+OTH-FIZ-56000,Fizzy Lifting Drinks,Gulf,1,967.7,Secret Factory,959.08,8.62,Secret Factory,959.08,8.620000000000005
+OTH-FIZ-56000,Fizzy Lifting Drinks,Interior,2,1307.53,Secret Factory,1301.13,6.4,Secret Factory,1301.13,6.399999999999864
+OTH-FIZ-56000,Fizzy Lifting Drinks,Pacific,1,1137.02,Secret Factory,1127.24,9.78,Secret Factory,1127.24,9.779999999999973
+OTH-GUM-21000,Wonka Gum,Atlantic,37,1319.8,,,,Current Factory,1319.8,0.0
+OTH-GUM-21000,Wonka Gum,Gulf,26,1300.15,,,,Current Factory,1300.15,0.0
+OTH-GUM-21000,Wonka Gum,Interior,29,1289.79,,,,Current Factory,1289.79,0.0
+OTH-GUM-21000,Wonka Gum,Pacific,28,1300.31,,,,Current Factory,1300.31,0.0
+OTH-KAZ-38000,Kazookles,Atlantic,37,1265.71,Secret Factory,1256.53,9.18,Secret Factory,1256.53,9.180000000000064
+OTH-KAZ-38000,Kazookles,Gulf,18,1283.59,Secret Factory,1275.76,7.83,Secret Factory,1275.76,7.829999999999927
+OTH-KAZ-38000,Kazookles,Interior,11,1172.42,Secret Factory,1159.55,12.87,Secret Factory,1159.55,12.870000000000118
+OTH-KAZ-38000,Kazookles,Pacific,30,1331.04,Secret Factory,1325.03,6.01,Secret Factory,1325.03,6.009999999999991
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,35,1368.05,,,,Current Factory,1368.05,0.0
+OTH-LIC-15000,Lickable Wallpaper,Gulf,10,1339.95,,,,Current Factory,1339.95,0.0
+OTH-LIC-15000,Lickable Wallpaper,Interior,15,1333.62,,,,Current Factory,1333.62,0.0
+OTH-LIC-15000,Lickable Wallpaper,Pacific,34,1323.34,,,,Current Factory,1323.34,0.0
+SUG-EVE-47000,Everlasting Gobstopper,Gulf,1,1425.32,,,,Current Factory,1425.32,0.0
+SUG-EVE-47000,Everlasting Gobstopper,Interior,1,1509.73,,,,Current Factory,1509.73,0.0
+SUG-EVE-47000,Everlasting Gobstopper,Pacific,1,1375.39,,,,Current Factory,1375.39,0.0
+SUG-FUN-75000,Fun Dip,Atlantic,1,1324.99,,,,Current Factory,1324.99,0.0
+SUG-FUN-75000,Fun Dip,Gulf,1,1336.17,,,,Current Factory,1336.17,0.0
+SUG-FUN-75000,Fun Dip,Interior,1,1319.32,,,,Current Factory,1319.32,0.0
+SUG-HAI-55000,Hair Toffee,Atlantic,1,1493.4,,,,Current Factory,1493.4,0.0
+SUG-HAI-55000,Hair Toffee,Gulf,1,1610.02,,,,Current Factory,1610.02,0.0
+SUG-HAI-55000,Hair Toffee,Pacific,2,1417.3,,,,Current Factory,1417.3,0.0
+SUG-LAF-25000,Laffy Taffy,Atlantic,6,1420.57,Secret Factory,1411.38,9.19,Secret Factory,1411.38,9.189999999999827
+SUG-LAF-25000,Laffy Taffy,Gulf,2,1227.32,Secret Factory,1223.0,4.32,Secret Factory,1223.0,4.319999999999936
+SUG-LAF-25000,Laffy Taffy,Interior,1,1120.54,Secret Factory,1096.51,24.03,Secret Factory,1096.51,24.029999999999973
+SUG-LAF-25000,Laffy Taffy,Pacific,1,1577.37,,,,Current Factory,1577.37,0.0
+SUG-NER-92000,Nerds,Atlantic,4,1249.29,Secret Factory,1237.57,11.72,Secret Factory,1237.57,11.720000000000027
+SUG-SWE-91000,SweeTARTS,Atlantic,5,1319.8,Secret Factory,1315.22,4.58,Secret Factory,1315.22,4.579999999999927
+SUG-SWE-91000,SweeTARTS,Interior,4,1273.0,Secret Factory,1259.21,13.79,Secret Factory,1259.21,13.789999999999964
+SUG-SWE-91000,SweeTARTS,Pacific,1,1477.95,,,,Current Factory,1477.95,0.0

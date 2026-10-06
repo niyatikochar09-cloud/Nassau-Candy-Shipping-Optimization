@@ -1,0 +1,54 @@
+Product_ID,Product_Name,Region,Records,Total_Units,Total_Sales,Total_Gross_Profit,Current_Factory,Candidate_Factory,Predicted_Lead_Time,Lead_Time_Reduction_Days,Lead_Time_Reduction_Percent,Scenario_Confidence_Score,Profit_Stability_Score,Optimization_Score,Final_Risk_Level,Decision_Status,Recommended_Factory,Current_Predicted_Lead_Time
+SUG-LAF-25000,Laffy Taffy,Interior,1,1,1.99,1.24,Sugar Shack,Secret Factory,1096.51,24.03,2.14,24.93,85.32,95.6,High,Reallocation Opportunity,Secret Factory,1120.54
+SUG-SWE-91000,SweeTARTS,Interior,4,13,19.5,9.1,Sugar Shack,Secret Factory,1259.21,13.79,1.08,28.53,72.34,91.7,High,Reallocation Opportunity,Secret Factory,1273.0
+OTH-KAZ-38000,Kazookles,Interior,11,39,126.75,9.75,The Other Factory,Secret Factory,1159.55,12.87,1.1,36.93,40.0,82.0,High,Reallocation Opportunity,Secret Factory,1172.42
+SUG-NER-92000,Nerds,Atlantic,4,10,15.0,7.0,Sugar Shack,Secret Factory,1237.57,11.72,0.94,28.53,72.34,91.7,High,Reallocation Opportunity,Secret Factory,1249.29
+OTH-FIZ-56000,Fizzy Lifting Drinks,Pacific,1,3,11.25,6.75,Sugar Shack,Secret Factory,1127.24,9.78,0.86,24.93,83.4,95.02,High,Reallocation Opportunity,Secret Factory,1137.02
+SUG-LAF-25000,Laffy Taffy,Atlantic,6,14,27.86,17.36,Sugar Shack,Secret Factory,1411.38,9.19,0.65,30.93,85.32,95.6,High,Reallocation Opportunity,Secret Factory,1420.57
+OTH-KAZ-38000,Kazookles,Atlantic,37,149,484.25,37.25,The Other Factory,Secret Factory,1256.53,9.18,0.73,68.13,40.0,82.0,High,Reallocation Opportunity,Secret Factory,1265.71
+OTH-FIZ-56000,Fizzy Lifting Drinks,Gulf,1,4,15.0,9.0,Sugar Shack,Secret Factory,959.08,8.62,0.89,24.93,83.4,95.02,High,Reallocation Opportunity,Secret Factory,967.7
+OTH-KAZ-38000,Kazookles,Gulf,18,78,253.5,19.5,The Other Factory,Secret Factory,1275.76,7.83,0.61,45.33,40.0,82.0,High,Reallocation Opportunity,Secret Factory,1283.59
+OTH-FIZ-56000,Fizzy Lifting Drinks,Interior,2,5,18.75,11.25,Sugar Shack,Secret Factory,1301.13,6.4,0.49,26.13,83.4,95.02,High,Reallocation Opportunity,Secret Factory,1307.53
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,639,2336,7592.0,4928.96,Wicked Choccy's,Secret Factory,1303.51,6.01,0.46,83.73,53.47,86.04,Medium,Reallocation Opportunity,Secret Factory,1309.52
+OTH-KAZ-38000,Kazookles,Pacific,30,105,341.25,26.25,The Other Factory,Secret Factory,1325.03,6.01,0.45,59.73,40.0,82.0,High,Reallocation Opportunity,Secret Factory,1331.04
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,333,1356,4407.0,2861.16,Wicked Choccy's,Secret Factory,1297.44,5.68,0.44,83.73,48.81,84.64,High,Reallocation Opportunity,Secret Factory,1303.12
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,572,2116,7384.84,5268.84,Lot's O' Nuts,Secret Factory,1306.26,5.64,0.43,83.73,92.82,97.85,Low,Reallocation Opportunity,Secret Factory,1311.9
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,623,2349,8456.4,5872.5,Lot's O' Nuts,Secret Factory,1310.57,5.59,0.42,83.73,88.29,96.49,Low,Reallocation Opportunity,Secret Factory,1316.16
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,296,1088,3797.12,2709.12,Lot's O' Nuts,Secret Factory,1316.03,5.47,0.41,83.73,92.82,97.85,Low,Reallocation Opportunity,Secret Factory,1321.5
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,672,2468,8884.8,6170.0,Lot's O' Nuts,Secret Factory,1315.23,5.44,0.41,83.73,88.4,96.52,Low,Reallocation Opportunity,Secret Factory,1320.67
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,410,1595,5742.0,3828.0,Lot's O' Nuts,Secret Factory,1305.5,5.42,0.41,83.73,72.64,91.79,Low,Reallocation Opportunity,Secret Factory,1310.92
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,291,1082,3895.2,2596.8,Lot's O' Nuts,Secret Factory,1303.14,5.4,0.41,83.73,73.64,92.09,Low,Reallocation Opportunity,Secret Factory,1308.54
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,499,1869,6074.25,3943.59,Wicked Choccy's,Secret Factory,1318.22,5.4,0.41,83.73,47.53,84.26,High,Reallocation Opportunity,Secret Factory,1323.62
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,548,2008,7228.8,4819.2,Lot's O' Nuts,Secret Factory,1311.9,5.39,0.41,83.73,74.16,92.25,Low,Reallocation Opportunity,Secret Factory,1317.29
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,666,2706,8794.5,5709.66,Wicked Choccy's,Secret Factory,1317.3,5.34,0.4,83.73,47.49,84.25,High,Reallocation Opportunity,Secret Factory,1322.64
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,310,1203,4330.8,3007.5,Lot's O' Nuts,Secret Factory,1312.56,5.23,0.4,83.73,87.05,96.12,Low,Reallocation Opportunity,Secret Factory,1317.79
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,558,2086,7822.5,5110.7,Wicked Choccy's,Secret Factory,1316.53,5.14,0.39,83.73,51.96,85.59,Medium,Reallocation Opportunity,Secret Factory,1321.67
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,569,2229,8024.4,5349.6,Lot's O' Nuts,Secret Factory,1314.9,4.97,0.38,83.73,73.02,91.91,Low,Reallocation Opportunity,Secret Factory,1319.87
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,452,1694,5912.06,4218.06,Lot's O' Nuts,Secret Factory,1335.48,4.96,0.37,83.73,92.82,97.85,Low,Reallocation Opportunity,Secret Factory,1340.44
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,676,2595,9731.25,6357.75,Wicked Choccy's,Secret Factory,1320.91,4.92,0.37,83.73,52.07,85.62,Medium,Reallocation Opportunity,Secret Factory,1325.83
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,451,1692,6345.0,4145.4,Wicked Choccy's,Secret Factory,1316.65,4.88,0.37,83.73,49.47,84.84,High,Reallocation Opportunity,Secret Factory,1321.53
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,459,1723,6202.8,4307.5,Lot's O' Nuts,Secret Factory,1328.73,4.79,0.36,83.73,91.24,97.37,Low,Reallocation Opportunity,Secret Factory,1333.52
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,330,1223,4586.25,2996.35,Wicked Choccy's,Secret Factory,1324.44,4.67,0.35,83.73,50.27,85.08,Medium,Reallocation Opportunity,Secret Factory,1329.11
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,490,1857,6480.93,4623.93,Lot's O' Nuts,Secret Factory,1341.99,4.6,0.34,83.73,92.82,97.85,Low,Reallocation Opportunity,Secret Factory,1346.59
+SUG-SWE-91000,SweeTARTS,Atlantic,5,24,36.0,16.8,Sugar Shack,Secret Factory,1315.22,4.58,0.35,29.73,72.34,91.7,High,Reallocation Opportunity,Secret Factory,1319.8
+SUG-LAF-25000,Laffy Taffy,Gulf,2,11,21.89,13.64,Sugar Shack,Secret Factory,1223.0,4.32,0.35,26.13,85.32,95.6,High,Reallocation Opportunity,Secret Factory,1227.32
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,2,9,33.75,20.25,Sugar Shack,,1491.39,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Sugar Shack,1491.39
+OTH-GUM-21000,Wonka Gum,Atlantic,37,169,211.25,109.85,Secret Factory,,1319.8,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1319.8
+OTH-GUM-21000,Wonka Gum,Gulf,26,120,150.0,78.0,Secret Factory,,1300.15,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1300.15
+OTH-GUM-21000,Wonka Gum,Interior,29,112,140.0,72.8,Secret Factory,,1289.79,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1289.79
+OTH-GUM-21000,Wonka Gum,Pacific,28,77,96.25,50.05,Secret Factory,,1300.31,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1300.31
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,35,139,2780.0,1390.0,Secret Factory,,1368.05,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1368.05
+OTH-LIC-15000,Lickable Wallpaper,Gulf,10,37,740.0,370.0,Secret Factory,,1339.95,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1339.95
+OTH-LIC-15000,Lickable Wallpaper,Interior,15,71,1420.0,710.0,Secret Factory,,1333.62,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1333.62
+OTH-LIC-15000,Lickable Wallpaper,Pacific,34,146,2920.0,1460.0,Secret Factory,,1323.34,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1323.34
+SUG-EVE-47000,Everlasting Gobstopper,Gulf,1,4,40.0,32.0,Secret Factory,,1425.32,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1425.32
+SUG-EVE-47000,Everlasting Gobstopper,Interior,1,3,30.0,24.0,Secret Factory,,1509.73,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1509.73
+SUG-EVE-47000,Everlasting Gobstopper,Pacific,1,6,60.0,48.0,Secret Factory,,1375.39,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Secret Factory,1375.39
+SUG-FUN-75000,Fun Dip,Atlantic,1,4,6.0,2.4,Sugar Shack,,1324.99,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Sugar Shack,1324.99
+SUG-FUN-75000,Fun Dip,Gulf,1,1,1.5,0.6,Sugar Shack,,1336.17,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Sugar Shack,1336.17
+SUG-FUN-75000,Fun Dip,Interior,1,3,4.5,1.8,Sugar Shack,,1319.32,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Sugar Shack,1319.32
+SUG-HAI-55000,Hair Toffee,Atlantic,1,5,22.5,17.5,The Other Factory,,1493.4,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,The Other Factory,1493.4
+SUG-HAI-55000,Hair Toffee,Gulf,1,2,9.0,7.0,The Other Factory,,1610.02,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,The Other Factory,1610.02
+SUG-HAI-55000,Hair Toffee,Pacific,2,10,45.0,35.0,The Other Factory,,1417.3,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,The Other Factory,1417.3
+SUG-LAF-25000,Laffy Taffy,Pacific,1,1,1.99,1.24,Sugar Shack,,1577.37,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Sugar Shack,1577.37
+SUG-SWE-91000,SweeTARTS,Pacific,1,4,6.0,2.8,Sugar Shack,,1477.95,0.0,0.0,0.0,0.0,0.0,Not Applicable,Retain Current Assignment,Sugar Shack,1477.95

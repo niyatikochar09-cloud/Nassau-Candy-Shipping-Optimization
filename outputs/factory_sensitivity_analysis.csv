@@ -1,0 +1,155 @@
+Product_ID,Product_Name,Region,Ship_Mode,Number_of_Factory_Options,Minimum_Predicted_Lead_Time,Maximum_Predicted_Lead_Time,Average_Predicted_Lead_Time,Factory_Prediction_Std,Factory_Impact_Range
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,First Class,5,1330.61,1335.93,1334.866,2.38,5.32
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,Same Day,5,1407.18,1410.15,1409.556,1.33,2.97
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,Second Class,5,1324.24,1328.77,1327.864,2.03,4.53
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,Standard Class,5,1295.59,1301.42,1300.2540000000001,2.61,5.83
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,First Class,5,1315.77,1321.17,1320.0900000000001,2.41,5.4
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,Same Day,5,1281.29,1285.46,1284.626,1.86,4.17
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,Second Class,5,1329.33,1334.21,1333.234,2.18,4.88
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,Standard Class,5,1294.24,1299.97,1298.824,2.56,5.73
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,First Class,5,1317.04,1322.26,1321.216,2.33,5.22
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,Same Day,5,1366.33,1371.35,1370.346,2.25,5.02
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,Second Class,5,1291.58,1297.2,1296.076,2.51,5.62
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,Standard Class,5,1301.42,1306.86,1305.772,2.43,5.44
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,First Class,5,1343.52,1347.45,1346.664,1.76,3.93
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,Same Day,5,1296.15,1300.79,1299.8619999999999,2.08,4.64
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,Second Class,5,1314.77,1320.2,1319.114,2.43,5.43
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,Standard Class,5,1310.43,1315.49,1314.478,2.26,5.06
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,First Class,5,1297.44,1303.22,1302.0639999999999,2.58,5.78
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,Same Day,5,1340.61,1345.57,1344.578,2.22,4.96
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,Second Class,5,1304.29,1310.31,1309.106,2.69,6.02
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,Standard Class,5,1301.23,1307.37,1306.1419999999998,2.75,6.14
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,First Class,5,1332.18,1337.44,1336.3880000000001,2.35,5.26
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,Same Day,5,1219.41,1225.82,1224.538,2.87,6.41
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,Second Class,5,1332.86,1338.1,1337.052,2.34,5.24
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,Standard Class,5,1280.21,1286.13,1284.9460000000001,2.65,5.92
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,First Class,5,1325.53,1330.52,1329.522,2.23,4.99
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,Same Day,5,1280.0,1288.09,1286.472,3.62,8.09
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,Second Class,5,1316.87,1322.66,1321.502,2.59,5.79
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,Standard Class,5,1320.04,1325.21,1324.176,2.31,5.17
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,First Class,5,1345.43,1350.64,1349.5980000000002,2.33,5.21
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,Same Day,5,1326.82,1332.33,1331.2279999999998,2.46,5.51
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,Second Class,5,1322.32,1328.1,1326.944,2.58,5.78
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,Standard Class,5,1307.99,1313.21,1312.166,2.33,5.22
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,First Class,5,1318.02,1323.1,1322.084,2.27,5.08
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,Same Day,5,1337.94,1343.55,1342.4279999999999,2.51,5.61
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,Second Class,5,1325.49,1330.47,1329.474,2.23,4.98
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,Standard Class,5,1354.28,1358.52,1357.672,1.9,4.24
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,First Class,5,1328.87,1334.07,1333.03,2.33,5.2
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,Same Day,5,1408.82,1410.32,1410.02,0.67,1.5
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,Second Class,5,1328.33,1333.7,1332.626,2.4,5.37
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,Standard Class,5,1300.67,1306.57,1305.3899999999999,2.64,5.9
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,First Class,5,1334.43,1339.75,1338.6860000000001,2.38,5.32
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,Same Day,5,1386.1,1391.18,1390.164,2.27,5.08
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,Second Class,5,1315.82,1321.57,1320.4199999999998,2.57,5.75
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,Standard Class,5,1338.78,1343.32,1342.4119999999998,2.03,4.54
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,First Class,5,1335.38,1340.63,1339.5800000000002,2.35,5.25
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,Same Day,5,1353.14,1357.07,1356.284,1.76,3.93
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,Second Class,5,1303.32,1309.07,1307.9199999999998,2.57,5.75
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,Standard Class,5,1293.22,1299.11,1297.932,2.63,5.89
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,First Class,5,1330.48,1335.48,1334.48,2.24,5.0
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,Same Day,5,1290.75,1296.84,1295.6219999999998,2.72,6.09
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,Second Class,5,1314.77,1320.36,1319.2419999999997,2.5,5.59
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,Standard Class,5,1304.79,1310.53,1309.382,2.57,5.74
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,First Class,5,1345.03,1349.15,1348.326,1.84,4.12
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,Same Day,5,1376.96,1379.81,1379.24,1.27,2.85
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,Second Class,5,1346.45,1350.47,1349.666,1.8,4.02
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,Standard Class,5,1289.88,1295.92,1294.712,2.7,6.04
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,First Class,5,1364.9,1368.44,1367.732,1.58,3.54
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,Same Day,5,1335.5,1340.33,1339.364,2.16,4.83
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,Second Class,5,1311.39,1316.84,1315.75,2.44,5.45
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,Standard Class,5,1327.1,1331.9,1330.94,2.15,4.8
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,First Class,5,1333.08,1338.03,1337.04,2.21,4.95
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,Same Day,5,1347.22,1351.96,1351.0120000000002,2.12,4.74
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,Second Class,5,1282.25,1289.03,1287.674,3.03,6.78
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,Standard Class,5,1318.87,1324.03,1322.998,2.31,5.16
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,First Class,5,1355.18,1359.76,1358.844,2.05,4.58
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,Same Day,5,1244.61,1253.7,1251.882,4.07,9.09
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,Second Class,5,1295.91,1300.83,1299.846,2.2,4.92
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,Standard Class,5,1319.83,1324.87,1323.8619999999999,2.25,5.04
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,First Class,5,1320.94,1326.06,1325.036,2.29,5.12
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,Same Day,5,1364.08,1367.83,1367.08,1.68,3.75
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,Second Class,5,1319.59,1324.33,1323.382,2.12,4.74
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,Standard Class,5,1323.71,1328.34,1327.414,2.07,4.63
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,First Class,5,1347.64,1351.66,1350.8560000000002,1.8,4.02
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,Same Day,5,1342.07,1346.65,1345.734,2.05,4.58
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,Second Class,5,1336.56,1341.02,1340.128,1.99,4.46
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,Standard Class,5,1303.08,1308.27,1307.232,2.32,5.19
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,First Class,5,1352.25,1355.82,1355.106,1.6,3.57
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,Same Day,5,1350.71,1354.65,1353.862,1.76,3.94
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,Second Class,5,1332.05,1337.2,1336.17,2.3,5.15
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,Standard Class,5,1307.03,1312.3,1311.2459999999999,2.36,5.27
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,First Class,5,1493.37,1493.37,1493.37,0.0,0.0
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,Standard Class,5,1489.41,1489.41,1489.41,0.0,0.0
+OTH-FIZ-56000,Fizzy Lifting Drinks,Gulf,Standard Class,5,959.08,967.7,965.976,3.85,8.62
+OTH-FIZ-56000,Fizzy Lifting Drinks,Interior,First Class,5,1081.49,1094.27,1091.714,5.72,12.78
+OTH-FIZ-56000,Fizzy Lifting Drinks,Interior,Standard Class,5,1520.78,1520.78,1520.78,0.0,0.0
+OTH-FIZ-56000,Fizzy Lifting Drinks,Pacific,Standard Class,5,1127.24,1137.02,1135.0639999999999,4.37,9.78
+OTH-GUM-21000,Wonka Gum,Atlantic,First Class,5,1280.56,1288.06,1286.56,3.35,7.5
+OTH-GUM-21000,Wonka Gum,Atlantic,Same Day,5,1583.95,1583.95,1583.95,0.0,0.0
+OTH-GUM-21000,Wonka Gum,Atlantic,Second Class,5,1498.9,1498.9,1498.9,0.0,0.0
+OTH-GUM-21000,Wonka Gum,Atlantic,Standard Class,5,1300.29,1308.19,1306.6100000000001,3.53,7.9
+OTH-GUM-21000,Wonka Gum,Gulf,First Class,5,1255.47,1267.49,1265.086,5.38,12.02
+OTH-GUM-21000,Wonka Gum,Gulf,Same Day,5,1471.75,1471.75,1471.75,0.0,0.0
+OTH-GUM-21000,Wonka Gum,Gulf,Second Class,5,1373.68,1382.48,1380.72,3.94,8.8
+OTH-GUM-21000,Wonka Gum,Gulf,Standard Class,5,1245.6,1256.61,1254.408,4.92,11.01
+OTH-GUM-21000,Wonka Gum,Interior,First Class,5,1284.05,1295.82,1293.466,5.26,11.77
+OTH-GUM-21000,Wonka Gum,Interior,Same Day,5,1223.98,1228.29,1227.4279999999999,1.93,4.31
+OTH-GUM-21000,Wonka Gum,Interior,Second Class,5,1163.14,1181.16,1177.556,8.06,18.02
+OTH-GUM-21000,Wonka Gum,Interior,Standard Class,5,1339.07,1346.95,1345.374,3.52,7.88
+OTH-GUM-21000,Wonka Gum,Pacific,First Class,5,1269.85,1281.86,1279.4579999999999,5.37,12.01
+OTH-GUM-21000,Wonka Gum,Pacific,Same Day,5,1310.88,1314.14,1313.488,1.46,3.26
+OTH-GUM-21000,Wonka Gum,Pacific,Second Class,5,1358.37,1369.15,1366.9940000000001,4.82,10.78
+OTH-GUM-21000,Wonka Gum,Pacific,Standard Class,5,1271.82,1282.64,1280.476,4.84,10.82
+OTH-KAZ-38000,Kazookles,Atlantic,First Class,5,1320.95,1327.32,1326.0459999999998,2.85,6.37
+OTH-KAZ-38000,Kazookles,Atlantic,Same Day,5,1120.75,1139.22,1135.526,8.26,18.47
+OTH-KAZ-38000,Kazookles,Atlantic,Second Class,5,1156.64,1167.43,1165.2720000000002,4.83,10.79
+OTH-KAZ-38000,Kazookles,Atlantic,Standard Class,5,1290.55,1298.94,1297.2620000000002,3.75,8.39
+OTH-KAZ-38000,Kazookles,Gulf,First Class,5,1180.13,1193.34,1190.6979999999999,5.91,13.21
+OTH-KAZ-38000,Kazookles,Gulf,Same Day,5,1204.12,1212.08,1210.4879999999998,3.56,7.96
+OTH-KAZ-38000,Kazookles,Gulf,Second Class,5,1301.65,1304.42,1303.866,1.24,2.77
+OTH-KAZ-38000,Kazookles,Gulf,Standard Class,5,1325.56,1332.64,1331.2240000000002,3.17,7.08
+OTH-KAZ-38000,Kazookles,Interior,First Class,5,1270.04,1278.0,1276.408,3.56,7.96
+OTH-KAZ-38000,Kazookles,Interior,Second Class,5,1179.07,1186.45,1184.974,3.3,7.38
+OTH-KAZ-38000,Kazookles,Interior,Standard Class,5,1122.41,1138.25,1135.0819999999999,7.08,15.84
+OTH-KAZ-38000,Kazookles,Pacific,First Class,5,1393.4,1396.59,1395.952,1.43,3.19
+OTH-KAZ-38000,Kazookles,Pacific,Same Day,5,1427.13,1427.13,1427.13,0.0,0.0
+OTH-KAZ-38000,Kazookles,Pacific,Second Class,5,1355.74,1361.71,1360.516,2.67,5.97
+OTH-KAZ-38000,Kazookles,Pacific,Standard Class,5,1272.24,1280.03,1278.472,3.48,7.79
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,First Class,5,1469.96,1471.05,1470.8319999999999,0.49,1.09
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,Same Day,5,1345.52,1350.41,1349.432,2.19,4.89
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,Second Class,5,1321.16,1331.26,1329.24,4.52,10.1
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,Standard Class,5,1334.49,1338.86,1337.9859999999999,1.95,4.37
+OTH-LIC-15000,Lickable Wallpaper,Gulf,First Class,5,1006.38,1016.16,1014.204,4.37,9.78
+OTH-LIC-15000,Lickable Wallpaper,Gulf,Second Class,5,1409.8,1413.06,1412.408,1.46,3.26
+OTH-LIC-15000,Lickable Wallpaper,Gulf,Standard Class,5,1360.63,1363.88,1363.23,1.45,3.25
+OTH-LIC-15000,Lickable Wallpaper,Interior,First Class,5,1541.19,1541.19,1541.19,0.0,0.0
+OTH-LIC-15000,Lickable Wallpaper,Interior,Same Day,5,1497.26,1497.26,1497.26,0.0,0.0
+OTH-LIC-15000,Lickable Wallpaper,Interior,Second Class,5,1347.78,1355.93,1354.3,3.64,8.15
+OTH-LIC-15000,Lickable Wallpaper,Interior,Standard Class,5,1278.36,1283.1,1282.1519999999998,2.12,4.74
+OTH-LIC-15000,Lickable Wallpaper,Pacific,First Class,5,1266.09,1270.84,1269.8899999999999,2.12,4.75
+OTH-LIC-15000,Lickable Wallpaper,Pacific,Same Day,5,1088.66,1098.44,1096.484,4.37,9.78
+OTH-LIC-15000,Lickable Wallpaper,Pacific,Second Class,5,1522.35,1522.35,1522.35,0.0,0.0
+OTH-LIC-15000,Lickable Wallpaper,Pacific,Standard Class,5,1296.95,1304.27,1302.806,3.27,7.32
+SUG-EVE-47000,Everlasting Gobstopper,Gulf,Standard Class,5,1425.32,1425.32,1425.32,0.0,0.0
+SUG-EVE-47000,Everlasting Gobstopper,Interior,Standard Class,5,1509.73,1509.73,1509.73,0.0,0.0
+SUG-EVE-47000,Everlasting Gobstopper,Pacific,First Class,5,1375.39,1375.39,1375.39,0.0,0.0
+SUG-FUN-75000,Fun Dip,Atlantic,Standard Class,5,1324.99,1324.99,1324.99,0.0,0.0
+SUG-FUN-75000,Fun Dip,Gulf,Second Class,5,1336.17,1336.17,1336.17,0.0,0.0
+SUG-FUN-75000,Fun Dip,Interior,Second Class,5,1319.32,1319.32,1319.32,0.0,0.0
+SUG-HAI-55000,Hair Toffee,Atlantic,Standard Class,5,1493.4,1493.4,1493.4,0.0,0.0
+SUG-HAI-55000,Hair Toffee,Gulf,Same Day,5,1610.02,1610.02,1610.02,0.0,0.0
+SUG-HAI-55000,Hair Toffee,Pacific,First Class,5,1451.56,1451.56,1451.56,0.0,0.0
+SUG-HAI-55000,Hair Toffee,Pacific,Standard Class,5,1383.03,1383.03,1383.03,0.0,0.0
+SUG-LAF-25000,Laffy Taffy,Atlantic,First Class,5,1472.8,1472.8,1472.8,0.0,0.0
+SUG-LAF-25000,Laffy Taffy,Atlantic,Same Day,5,1628.29,1628.29,1628.29,0.0,0.0
+SUG-LAF-25000,Laffy Taffy,Atlantic,Standard Class,5,1341.8,1355.58,1352.824,6.16,13.78
+SUG-LAF-25000,Laffy Taffy,Gulf,Standard Class,5,1223.0,1227.32,1226.456,1.93,4.32
+SUG-LAF-25000,Laffy Taffy,Interior,First Class,5,1096.51,1120.54,1115.734,10.75,24.03
+SUG-LAF-25000,Laffy Taffy,Pacific,Standard Class,5,1577.37,1577.37,1577.37,0.0,0.0
+SUG-NER-92000,Nerds,Atlantic,Standard Class,5,1237.57,1249.29,1246.946,5.24,11.72
+SUG-SWE-91000,SweeTARTS,Atlantic,Second Class,5,1379.97,1379.97,1379.97,0.0,0.0
+SUG-SWE-91000,SweeTARTS,Atlantic,Standard Class,5,1299.03,1304.75,1303.606,2.56,5.72
+SUG-SWE-91000,SweeTARTS,Interior,Second Class,5,1461.6,1461.6,1461.6,0.0,0.0
+SUG-SWE-91000,SweeTARTS,Interior,Standard Class,5,1191.75,1210.13,1206.4540000000002,8.22,18.38
+SUG-SWE-91000,SweeTARTS,Pacific,Second Class,5,1477.95,1477.95,1477.95,0.0,0.0

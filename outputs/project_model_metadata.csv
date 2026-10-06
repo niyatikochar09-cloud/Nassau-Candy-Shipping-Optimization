@@ -1,0 +1,13 @@
+Item,Value
+Selected Model,Gradient Boosting Regressor
+Training Records,8155
+Testing Records,2039
+Input Features,19
+MAE,159.8747
+RMSE,169.5915
+R2 Score,0.5933
+Final Route Clusters,5
+Product-Region Combinations,53
+Positive Reallocation Opportunities,33
+Recommendation Coverage (%),62.26
+Factory-Sensitive Scenario Share (%),83.12

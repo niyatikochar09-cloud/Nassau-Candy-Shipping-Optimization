@@ -1,0 +1,47 @@
+Feature,Importance
+Order_Year,0.8772
+Order_DayOfWeek,0.0971
+Order_Month,0.0064
+Gross_Profit,0.0028
+Region_Gulf,0.0026
+Region_Atlantic,0.0023
+Is_Weekend,0.0015
+Order_Quarter,0.0011
+Cost,0.001
+Sales,0.0008
+Ship_Mode_Second Class,0.0008
+Region_Pacific,0.0008
+Country_Region_Canada,0.0007
+Units,0.0006
+Region_Interior,0.0006
+Ship_Mode_First Class,0.0005
+Division_Other,0.0005
+Ship_Mode_Same Day,0.0004
+Product_Name_Fun Dip,0.0003
+Profit_Per_Unit,0.0003
+Current_Factory_Secret Factory,0.0003
+Country_Region_United States,0.0003
+Profit_Margin,0.0003
+Product_Name_Laffy Taffy,0.0002
+Ship_Mode_Standard Class,0.0002
+Sales_Per_Unit,0.0001
+Cost_Per_Unit,0.0001
+Product_Name_Wonka Bar -Scrumdiddlyumptious,0.0001
+Product_Name_Wonka Bar - Fudge Mallows,0.0
+Product_Name_Wonka Gum,0.0
+Product_Name_SweeTARTS,0.0
+Product_Name_Nerds,0.0
+Product_Name_Fizzy Lifting Drinks,0.0
+Product_Name_Wonka Bar - Milk Chocolate,0.0
+Product_Name_Hair Toffee,0.0
+Product_Name_Everlasting Gobstopper,0.0
+Product_Name_Kazookles,0.0
+Product_Name_Lickable Wallpaper,0.0
+Product_Name_Wonka Bar - Triple Dazzle Caramel,0.0
+Product_Name_Wonka Bar - Nutty Crunch Surprise,0.0
+Division_Chocolate,0.0
+Current_Factory_The Other Factory,0.0
+Current_Factory_Sugar Shack,0.0
+Current_Factory_Lot's O' Nuts,0.0
+Current_Factory_Wicked Choccy's,0.0
+Division_Sugar,0.0

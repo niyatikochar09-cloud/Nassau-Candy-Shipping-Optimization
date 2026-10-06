@@ -1,0 +1,54 @@
+Product_ID,Product_Name,Region,Average_Profit_Margin,Profit_Margin_Std,Average_Profit_Per_Unit,Total_Gross_Profit,Records,Margin_Score,Stability_Score,Profit_Stability_Score
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Atlantic,66.67,0.0,2.4,4819.2,548,81.56,63.06,74.16
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Gulf,66.67,0.0,2.4,2596.8,291,81.56,61.76,73.64
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Interior,66.67,0.0,2.4,3828.0,410,81.56,59.27,72.64
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Pacific,66.67,0.0,2.4,5349.6,569,81.56,60.21,73.02
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Atlantic,64.92,0.0,2.11,4928.96,639,79.15,14.96,53.47
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Gulf,64.92,0.0,2.11,2861.16,333,79.15,3.3,48.81
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Interior,64.92,0.0,2.11,3943.59,499,79.15,0.1,47.53
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Pacific,64.92,0.0,2.11,5709.66,666,79.15,0.0,47.49
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Atlantic,71.35,0.0,2.49,4623.93,490,88.03,100.0,92.82
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Gulf,71.35,0.0,2.49,2709.12,296,88.03,100.0,92.82
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Interior,71.35,0.0,2.49,4218.06,452,88.03,100.0,92.82
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Pacific,71.35,0.0,2.49,5268.84,572,88.03,100.0,92.82
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Atlantic,69.44,0.0,2.5,5872.5,623,85.4,92.61,88.29
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Gulf,69.44,0.0,2.5,3007.5,310,85.4,89.52,87.05
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Interior,69.44,0.0,2.5,4307.5,459,85.4,100.0,91.24
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Pacific,69.44,0.0,2.5,6170.0,672,85.4,92.89,88.4
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Atlantic,65.33,0.0,2.45,5110.7,558,79.72,10.33,51.96
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Gulf,65.33,0.0,2.45,2996.35,330,79.72,6.1,50.27
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Interior,65.33,0.0,2.45,4145.4,451,79.72,4.09,49.47
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Pacific,65.33,0.0,2.45,6357.75,676,79.72,10.6,52.07
+OTH-FIZ-56000,Fizzy Lifting Drinks,Atlantic,60.0,0.0,2.25,20.25,2,72.34,100.0,83.4
+OTH-FIZ-56000,Fizzy Lifting Drinks,Gulf,60.0,0.0,2.25,9.0,1,72.34,100.0,83.4
+OTH-FIZ-56000,Fizzy Lifting Drinks,Interior,60.0,0.0,2.25,11.25,2,72.34,100.0,83.4
+OTH-FIZ-56000,Fizzy Lifting Drinks,Pacific,60.0,0.0,2.25,6.75,1,72.34,100.0,83.4
+OTH-GUM-21000,Wonka Gum,Atlantic,52.0,0.0,0.65,109.85,37,61.28,100.0,76.77
+OTH-GUM-21000,Wonka Gum,Gulf,52.0,0.0,0.65,78.0,26,61.28,100.0,76.77
+OTH-GUM-21000,Wonka Gum,Interior,52.0,0.0,0.65,72.8,29,61.28,100.0,76.77
+OTH-GUM-21000,Wonka Gum,Pacific,52.0,0.0,0.65,50.05,28,61.28,100.0,76.77
+OTH-KAZ-38000,Kazookles,Atlantic,7.69,0.0,0.25,37.25,37,0.0,100.0,40.0
+OTH-KAZ-38000,Kazookles,Gulf,7.69,0.0,0.25,19.5,18,0.0,100.0,40.0
+OTH-KAZ-38000,Kazookles,Interior,7.69,0.0,0.25,9.75,11,0.0,100.0,40.0
+OTH-KAZ-38000,Kazookles,Pacific,7.69,0.0,0.25,26.25,30,0.0,100.0,40.0
+OTH-LIC-15000,Lickable Wallpaper,Atlantic,50.0,0.0,10.0,1390.0,35,58.51,100.0,75.11
+OTH-LIC-15000,Lickable Wallpaper,Gulf,50.0,0.0,10.0,370.0,10,58.51,100.0,75.11
+OTH-LIC-15000,Lickable Wallpaper,Interior,50.0,0.0,10.0,710.0,15,58.51,100.0,75.11
+OTH-LIC-15000,Lickable Wallpaper,Pacific,50.0,0.0,10.0,1460.0,34,58.51,100.0,75.11
+SUG-EVE-47000,Everlasting Gobstopper,Gulf,80.0,0.0,8.0,32.0,1,100.0,100.0,100.0
+SUG-EVE-47000,Everlasting Gobstopper,Interior,80.0,0.0,8.0,24.0,1,100.0,100.0,100.0
+SUG-EVE-47000,Everlasting Gobstopper,Pacific,80.0,0.0,8.0,48.0,1,100.0,100.0,100.0
+SUG-FUN-75000,Fun Dip,Atlantic,40.0,0.0,0.6,2.4,1,44.68,100.0,66.81
+SUG-FUN-75000,Fun Dip,Gulf,40.0,0.0,0.6,0.6,1,44.68,100.0,66.81
+SUG-FUN-75000,Fun Dip,Interior,40.0,0.0,0.6,1.8,1,44.68,100.0,66.81
+SUG-HAI-55000,Hair Toffee,Atlantic,77.78,0.0,3.5,17.5,1,96.93,100.0,98.16
+SUG-HAI-55000,Hair Toffee,Gulf,77.78,0.0,3.5,7.0,1,96.93,100.0,98.16
+SUG-HAI-55000,Hair Toffee,Pacific,77.78,0.0,3.5,35.0,2,96.93,100.0,98.16
+SUG-LAF-25000,Laffy Taffy,Atlantic,62.31,0.0,1.24,17.36,6,75.54,100.0,85.32
+SUG-LAF-25000,Laffy Taffy,Gulf,62.31,0.0,1.24,13.64,2,75.54,100.0,85.32
+SUG-LAF-25000,Laffy Taffy,Interior,62.31,0.0,1.24,1.24,1,75.54,100.0,85.32
+SUG-LAF-25000,Laffy Taffy,Pacific,62.31,0.0,1.24,1.24,1,75.54,100.0,85.32
+SUG-NER-92000,Nerds,Atlantic,46.67,0.0,0.7,7.0,4,53.9,100.0,72.34
+SUG-SWE-91000,SweeTARTS,Atlantic,46.67,0.0,0.7,16.8,5,53.9,100.0,72.34
+SUG-SWE-91000,SweeTARTS,Interior,46.67,0.0,0.7,9.1,4,53.9,100.0,72.34
+SUG-SWE-91000,SweeTARTS,Pacific,46.67,0.0,0.7,2.8,1,53.9,100.0,72.34

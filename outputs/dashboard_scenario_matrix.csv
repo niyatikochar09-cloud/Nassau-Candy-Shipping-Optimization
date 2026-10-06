@@ -1,0 +1,771 @@
+Product_ID,Product_Name,Division,Region,Ship_Mode,Current_Factory,Candidate_Factory,Is_Current_Factory,Records,Predicted_Lead_Time,Current_Predicted_Lead_Time,Lead_Time_Reduction_Days,Lead_Time_Reduction_Percent,Improvement_Available
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Gulf,Standard Class,Secret Factory,Lot's O' Nuts,False,1,1425.32,1425.32,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Gulf,Standard Class,Secret Factory,Secret Factory,True,1,1425.32,1425.32,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Gulf,Standard Class,Secret Factory,Sugar Shack,False,1,1425.32,1425.32,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Gulf,Standard Class,Secret Factory,The Other Factory,False,1,1425.32,1425.32,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Gulf,Standard Class,Secret Factory,Wicked Choccy's,False,1,1425.32,1425.32,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Interior,Standard Class,Secret Factory,Lot's O' Nuts,False,1,1509.73,1509.73,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Interior,Standard Class,Secret Factory,Secret Factory,True,1,1509.73,1509.73,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Interior,Standard Class,Secret Factory,Sugar Shack,False,1,1509.73,1509.73,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Interior,Standard Class,Secret Factory,The Other Factory,False,1,1509.73,1509.73,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Interior,Standard Class,Secret Factory,Wicked Choccy's,False,1,1509.73,1509.73,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Pacific,First Class,Secret Factory,Lot's O' Nuts,False,1,1375.39,1375.39,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Pacific,First Class,Secret Factory,Secret Factory,True,1,1375.39,1375.39,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Pacific,First Class,Secret Factory,Sugar Shack,False,1,1375.39,1375.39,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Pacific,First Class,Secret Factory,The Other Factory,False,1,1375.39,1375.39,0.0,0.0,False
+SUG-EVE-47000,Everlasting Gobstopper,Sugar,Pacific,First Class,Secret Factory,Wicked Choccy's,False,1,1375.39,1375.39,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,First Class,Sugar Shack,Lot's O' Nuts,False,1,1493.37,1493.37,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,First Class,Sugar Shack,Secret Factory,False,1,1493.37,1493.37,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,First Class,Sugar Shack,Sugar Shack,True,1,1493.37,1493.37,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,First Class,Sugar Shack,The Other Factory,False,1,1493.37,1493.37,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,First Class,Sugar Shack,Wicked Choccy's,False,1,1493.37,1493.37,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,Standard Class,Sugar Shack,Lot's O' Nuts,False,1,1489.41,1489.41,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,Standard Class,Sugar Shack,Secret Factory,False,1,1489.41,1489.41,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,Standard Class,Sugar Shack,Sugar Shack,True,1,1489.41,1489.41,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,Standard Class,Sugar Shack,The Other Factory,False,1,1489.41,1489.41,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Atlantic,Standard Class,Sugar Shack,Wicked Choccy's,False,1,1489.41,1489.41,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Gulf,Standard Class,Sugar Shack,Secret Factory,False,1,959.08,967.7,8.62,0.89,True
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Gulf,Standard Class,Sugar Shack,Lot's O' Nuts,False,1,967.7,967.7,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Gulf,Standard Class,Sugar Shack,Sugar Shack,True,1,967.7,967.7,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Gulf,Standard Class,Sugar Shack,The Other Factory,False,1,967.7,967.7,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Gulf,Standard Class,Sugar Shack,Wicked Choccy's,False,1,967.7,967.7,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,First Class,Sugar Shack,Secret Factory,False,1,1081.49,1094.27,12.78,1.17,True
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,First Class,Sugar Shack,Lot's O' Nuts,False,1,1094.27,1094.27,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,First Class,Sugar Shack,Sugar Shack,True,1,1094.27,1094.27,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,First Class,Sugar Shack,The Other Factory,False,1,1094.27,1094.27,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,First Class,Sugar Shack,Wicked Choccy's,False,1,1094.27,1094.27,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,Standard Class,Sugar Shack,Lot's O' Nuts,False,1,1520.78,1520.78,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,Standard Class,Sugar Shack,Secret Factory,False,1,1520.78,1520.78,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,Standard Class,Sugar Shack,Sugar Shack,True,1,1520.78,1520.78,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,Standard Class,Sugar Shack,The Other Factory,False,1,1520.78,1520.78,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Interior,Standard Class,Sugar Shack,Wicked Choccy's,False,1,1520.78,1520.78,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Pacific,Standard Class,Sugar Shack,Secret Factory,False,1,1127.24,1137.02,9.78,0.86,True
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Pacific,Standard Class,Sugar Shack,Lot's O' Nuts,False,1,1137.02,1137.02,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Pacific,Standard Class,Sugar Shack,Sugar Shack,True,1,1137.02,1137.02,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Pacific,Standard Class,Sugar Shack,The Other Factory,False,1,1137.02,1137.02,0.0,0.0,False
+OTH-FIZ-56000,Fizzy Lifting Drinks,Sugar,Pacific,Standard Class,Sugar Shack,Wicked Choccy's,False,1,1137.02,1137.02,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Atlantic,Standard Class,Sugar Shack,Lot's O' Nuts,False,1,1324.99,1324.99,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Atlantic,Standard Class,Sugar Shack,Secret Factory,False,1,1324.99,1324.99,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Atlantic,Standard Class,Sugar Shack,Sugar Shack,True,1,1324.99,1324.99,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Atlantic,Standard Class,Sugar Shack,The Other Factory,False,1,1324.99,1324.99,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Atlantic,Standard Class,Sugar Shack,Wicked Choccy's,False,1,1324.99,1324.99,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Gulf,Second Class,Sugar Shack,Lot's O' Nuts,False,1,1336.17,1336.17,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Gulf,Second Class,Sugar Shack,Secret Factory,False,1,1336.17,1336.17,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Gulf,Second Class,Sugar Shack,Sugar Shack,True,1,1336.17,1336.17,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Gulf,Second Class,Sugar Shack,The Other Factory,False,1,1336.17,1336.17,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Gulf,Second Class,Sugar Shack,Wicked Choccy's,False,1,1336.17,1336.17,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Interior,Second Class,Sugar Shack,Lot's O' Nuts,False,1,1319.32,1319.32,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Interior,Second Class,Sugar Shack,Secret Factory,False,1,1319.32,1319.32,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Interior,Second Class,Sugar Shack,Sugar Shack,True,1,1319.32,1319.32,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Interior,Second Class,Sugar Shack,The Other Factory,False,1,1319.32,1319.32,0.0,0.0,False
+SUG-FUN-75000,Fun Dip,Sugar,Interior,Second Class,Sugar Shack,Wicked Choccy's,False,1,1319.32,1319.32,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Atlantic,Standard Class,The Other Factory,Lot's O' Nuts,False,1,1493.4,1493.4,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Atlantic,Standard Class,The Other Factory,Secret Factory,False,1,1493.4,1493.4,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Atlantic,Standard Class,The Other Factory,Sugar Shack,False,1,1493.4,1493.4,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Atlantic,Standard Class,The Other Factory,The Other Factory,True,1,1493.4,1493.4,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Atlantic,Standard Class,The Other Factory,Wicked Choccy's,False,1,1493.4,1493.4,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Gulf,Same Day,The Other Factory,Lot's O' Nuts,False,1,1610.02,1610.02,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Gulf,Same Day,The Other Factory,Secret Factory,False,1,1610.02,1610.02,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Gulf,Same Day,The Other Factory,Sugar Shack,False,1,1610.02,1610.02,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Gulf,Same Day,The Other Factory,The Other Factory,True,1,1610.02,1610.02,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Gulf,Same Day,The Other Factory,Wicked Choccy's,False,1,1610.02,1610.02,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,First Class,The Other Factory,Lot's O' Nuts,False,1,1451.56,1451.56,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,First Class,The Other Factory,Secret Factory,False,1,1451.56,1451.56,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,First Class,The Other Factory,Sugar Shack,False,1,1451.56,1451.56,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,First Class,The Other Factory,The Other Factory,True,1,1451.56,1451.56,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,First Class,The Other Factory,Wicked Choccy's,False,1,1451.56,1451.56,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,Standard Class,The Other Factory,Lot's O' Nuts,False,1,1383.03,1383.03,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,Standard Class,The Other Factory,Secret Factory,False,1,1383.03,1383.03,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,Standard Class,The Other Factory,Sugar Shack,False,1,1383.03,1383.03,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,Standard Class,The Other Factory,The Other Factory,True,1,1383.03,1383.03,0.0,0.0,False
+SUG-HAI-55000,Hair Toffee,Sugar,Pacific,Standard Class,The Other Factory,Wicked Choccy's,False,1,1383.03,1383.03,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,First Class,The Other Factory,Secret Factory,False,5,1320.95,1327.32,6.37,0.48,True
+OTH-KAZ-38000,Kazookles,Other,Atlantic,First Class,The Other Factory,Lot's O' Nuts,False,5,1327.32,1327.32,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,First Class,The Other Factory,Sugar Shack,False,5,1327.32,1327.32,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,First Class,The Other Factory,The Other Factory,True,5,1327.32,1327.32,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,First Class,The Other Factory,Wicked Choccy's,False,5,1327.32,1327.32,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Same Day,The Other Factory,Secret Factory,False,2,1120.75,1139.22,18.47,1.62,True
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Same Day,The Other Factory,Lot's O' Nuts,False,2,1139.22,1139.22,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Same Day,The Other Factory,Sugar Shack,False,2,1139.22,1139.22,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Same Day,The Other Factory,The Other Factory,True,2,1139.22,1139.22,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Same Day,The Other Factory,Wicked Choccy's,False,2,1139.22,1139.22,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Second Class,The Other Factory,Secret Factory,False,8,1156.64,1167.43,10.79,0.92,True
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Second Class,The Other Factory,Lot's O' Nuts,False,8,1167.43,1167.43,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Second Class,The Other Factory,Sugar Shack,False,8,1167.43,1167.43,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Second Class,The Other Factory,The Other Factory,True,8,1167.43,1167.43,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Second Class,The Other Factory,Wicked Choccy's,False,8,1167.43,1167.43,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Standard Class,The Other Factory,Secret Factory,False,22,1290.55,1298.94,8.39,0.65,True
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Standard Class,The Other Factory,Lot's O' Nuts,False,22,1298.94,1298.94,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Standard Class,The Other Factory,Sugar Shack,False,22,1298.94,1298.94,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Standard Class,The Other Factory,The Other Factory,True,22,1298.94,1298.94,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Atlantic,Standard Class,The Other Factory,Wicked Choccy's,False,22,1298.94,1298.94,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,First Class,The Other Factory,Secret Factory,False,4,1180.13,1193.34,13.21,1.11,True
+OTH-KAZ-38000,Kazookles,Other,Gulf,First Class,The Other Factory,Lot's O' Nuts,False,4,1193.34,1193.34,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,First Class,The Other Factory,Sugar Shack,False,4,1193.34,1193.34,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,First Class,The Other Factory,The Other Factory,True,4,1193.34,1193.34,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,First Class,The Other Factory,Wicked Choccy's,False,4,1193.34,1193.34,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Same Day,The Other Factory,Secret Factory,False,2,1204.12,1212.08,7.96,0.66,True
+OTH-KAZ-38000,Kazookles,Other,Gulf,Same Day,The Other Factory,Lot's O' Nuts,False,2,1212.08,1212.08,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Same Day,The Other Factory,Sugar Shack,False,2,1212.08,1212.08,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Same Day,The Other Factory,The Other Factory,True,2,1212.08,1212.08,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Same Day,The Other Factory,Wicked Choccy's,False,2,1212.08,1212.08,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Second Class,The Other Factory,Secret Factory,False,3,1301.65,1304.42,2.77,0.21,True
+OTH-KAZ-38000,Kazookles,Other,Gulf,Second Class,The Other Factory,Lot's O' Nuts,False,3,1304.42,1304.42,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Second Class,The Other Factory,Sugar Shack,False,3,1304.42,1304.42,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Second Class,The Other Factory,The Other Factory,True,3,1304.42,1304.42,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Second Class,The Other Factory,Wicked Choccy's,False,3,1304.42,1304.42,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Standard Class,The Other Factory,Secret Factory,False,9,1325.56,1332.64,7.08,0.53,True
+OTH-KAZ-38000,Kazookles,Other,Gulf,Standard Class,The Other Factory,Lot's O' Nuts,False,9,1332.64,1332.64,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Standard Class,The Other Factory,Sugar Shack,False,9,1332.64,1332.64,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Standard Class,The Other Factory,The Other Factory,True,9,1332.64,1332.64,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Gulf,Standard Class,The Other Factory,Wicked Choccy's,False,9,1332.64,1332.64,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,First Class,The Other Factory,Secret Factory,False,2,1270.04,1278.0,7.96,0.62,True
+OTH-KAZ-38000,Kazookles,Other,Interior,First Class,The Other Factory,Lot's O' Nuts,False,2,1278.0,1278.0,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,First Class,The Other Factory,Sugar Shack,False,2,1278.0,1278.0,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,First Class,The Other Factory,The Other Factory,True,2,1278.0,1278.0,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,First Class,The Other Factory,Wicked Choccy's,False,2,1278.0,1278.0,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,Second Class,The Other Factory,Secret Factory,False,2,1179.07,1186.45,7.38,0.62,True
+OTH-KAZ-38000,Kazookles,Other,Interior,Second Class,The Other Factory,Lot's O' Nuts,False,2,1186.45,1186.45,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,Second Class,The Other Factory,Sugar Shack,False,2,1186.45,1186.45,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,Second Class,The Other Factory,The Other Factory,True,2,1186.45,1186.45,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,Second Class,The Other Factory,Wicked Choccy's,False,2,1186.45,1186.45,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,Standard Class,The Other Factory,Secret Factory,False,7,1122.41,1138.25,15.84,1.39,True
+OTH-KAZ-38000,Kazookles,Other,Interior,Standard Class,The Other Factory,Lot's O' Nuts,False,7,1138.25,1138.25,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,Standard Class,The Other Factory,Sugar Shack,False,7,1138.25,1138.25,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,Standard Class,The Other Factory,The Other Factory,True,7,1138.25,1138.25,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Interior,Standard Class,The Other Factory,Wicked Choccy's,False,7,1138.25,1138.25,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,First Class,The Other Factory,Secret Factory,False,5,1393.4,1396.59,3.19,0.23,True
+OTH-KAZ-38000,Kazookles,Other,Pacific,First Class,The Other Factory,Lot's O' Nuts,False,5,1396.59,1396.59,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,First Class,The Other Factory,Sugar Shack,False,5,1396.59,1396.59,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,First Class,The Other Factory,The Other Factory,True,5,1396.59,1396.59,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,First Class,The Other Factory,Wicked Choccy's,False,5,1396.59,1396.59,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Same Day,The Other Factory,Lot's O' Nuts,False,2,1427.13,1427.13,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Same Day,The Other Factory,Secret Factory,False,2,1427.13,1427.13,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Same Day,The Other Factory,Sugar Shack,False,2,1427.13,1427.13,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Same Day,The Other Factory,The Other Factory,True,2,1427.13,1427.13,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Same Day,The Other Factory,Wicked Choccy's,False,2,1427.13,1427.13,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Second Class,The Other Factory,Secret Factory,False,8,1355.74,1361.71,5.97,0.44,True
+OTH-KAZ-38000,Kazookles,Other,Pacific,Second Class,The Other Factory,Lot's O' Nuts,False,8,1361.71,1361.71,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Second Class,The Other Factory,Sugar Shack,False,8,1361.71,1361.71,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Second Class,The Other Factory,The Other Factory,True,8,1361.71,1361.71,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Second Class,The Other Factory,Wicked Choccy's,False,8,1361.71,1361.71,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Standard Class,The Other Factory,Secret Factory,False,15,1272.24,1280.03,7.79,0.61,True
+OTH-KAZ-38000,Kazookles,Other,Pacific,Standard Class,The Other Factory,Lot's O' Nuts,False,15,1280.03,1280.03,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Standard Class,The Other Factory,Sugar Shack,False,15,1280.03,1280.03,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Standard Class,The Other Factory,The Other Factory,True,15,1280.03,1280.03,0.0,0.0,False
+OTH-KAZ-38000,Kazookles,Other,Pacific,Standard Class,The Other Factory,Wicked Choccy's,False,15,1280.03,1280.03,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,First Class,Sugar Shack,Lot's O' Nuts,False,1,1472.8,1472.8,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,First Class,Sugar Shack,Secret Factory,False,1,1472.8,1472.8,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,First Class,Sugar Shack,Sugar Shack,True,1,1472.8,1472.8,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,First Class,Sugar Shack,The Other Factory,False,1,1472.8,1472.8,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,First Class,Sugar Shack,Wicked Choccy's,False,1,1472.8,1472.8,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Same Day,Sugar Shack,Lot's O' Nuts,False,1,1628.29,1628.29,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Same Day,Sugar Shack,Secret Factory,False,1,1628.29,1628.29,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Same Day,Sugar Shack,Sugar Shack,True,1,1628.29,1628.29,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Same Day,Sugar Shack,The Other Factory,False,1,1628.29,1628.29,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Same Day,Sugar Shack,Wicked Choccy's,False,1,1628.29,1628.29,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Standard Class,Sugar Shack,Secret Factory,False,4,1341.8,1355.58,13.78,1.02,True
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Standard Class,Sugar Shack,Lot's O' Nuts,False,4,1355.58,1355.58,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Standard Class,Sugar Shack,Sugar Shack,True,4,1355.58,1355.58,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Standard Class,Sugar Shack,The Other Factory,False,4,1355.58,1355.58,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Atlantic,Standard Class,Sugar Shack,Wicked Choccy's,False,4,1355.58,1355.58,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Gulf,Standard Class,Sugar Shack,Secret Factory,False,2,1223.0,1227.32,4.32,0.35,True
+SUG-LAF-25000,Laffy Taffy,Sugar,Gulf,Standard Class,Sugar Shack,Lot's O' Nuts,False,2,1227.32,1227.32,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Gulf,Standard Class,Sugar Shack,Sugar Shack,True,2,1227.32,1227.32,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Gulf,Standard Class,Sugar Shack,The Other Factory,False,2,1227.32,1227.32,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Gulf,Standard Class,Sugar Shack,Wicked Choccy's,False,2,1227.32,1227.32,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Interior,First Class,Sugar Shack,Secret Factory,False,1,1096.51,1120.54,24.03,2.14,True
+SUG-LAF-25000,Laffy Taffy,Sugar,Interior,First Class,Sugar Shack,Lot's O' Nuts,False,1,1120.54,1120.54,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Interior,First Class,Sugar Shack,Sugar Shack,True,1,1120.54,1120.54,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Interior,First Class,Sugar Shack,The Other Factory,False,1,1120.54,1120.54,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Interior,First Class,Sugar Shack,Wicked Choccy's,False,1,1120.54,1120.54,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Pacific,Standard Class,Sugar Shack,Lot's O' Nuts,False,1,1577.37,1577.37,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Pacific,Standard Class,Sugar Shack,Secret Factory,False,1,1577.37,1577.37,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Pacific,Standard Class,Sugar Shack,Sugar Shack,True,1,1577.37,1577.37,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Pacific,Standard Class,Sugar Shack,The Other Factory,False,1,1577.37,1577.37,0.0,0.0,False
+SUG-LAF-25000,Laffy Taffy,Sugar,Pacific,Standard Class,Sugar Shack,Wicked Choccy's,False,1,1577.37,1577.37,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,First Class,Secret Factory,Secret Factory,True,9,1469.96,1469.96,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,First Class,Secret Factory,Lot's O' Nuts,False,9,1471.05,1469.96,-1.09,-0.07,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,First Class,Secret Factory,Sugar Shack,False,9,1471.05,1469.96,-1.09,-0.07,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,First Class,Secret Factory,The Other Factory,False,9,1471.05,1469.96,-1.09,-0.07,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,First Class,Secret Factory,Wicked Choccy's,False,9,1471.05,1469.96,-1.09,-0.07,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Same Day,Secret Factory,Secret Factory,True,2,1345.52,1345.52,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Same Day,Secret Factory,Lot's O' Nuts,False,2,1350.41,1345.52,-4.89,-0.36,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Same Day,Secret Factory,Sugar Shack,False,2,1350.41,1345.52,-4.89,-0.36,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Same Day,Secret Factory,The Other Factory,False,2,1350.41,1345.52,-4.89,-0.36,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Same Day,Secret Factory,Wicked Choccy's,False,2,1350.41,1345.52,-4.89,-0.36,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Second Class,Secret Factory,Secret Factory,True,5,1321.16,1321.16,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Second Class,Secret Factory,Lot's O' Nuts,False,5,1331.26,1321.16,-10.1,-0.76,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Second Class,Secret Factory,Sugar Shack,False,5,1331.26,1321.16,-10.1,-0.76,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Second Class,Secret Factory,The Other Factory,False,5,1331.26,1321.16,-10.1,-0.76,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Second Class,Secret Factory,Wicked Choccy's,False,5,1331.26,1321.16,-10.1,-0.76,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Standard Class,Secret Factory,Secret Factory,True,19,1334.49,1334.49,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Standard Class,Secret Factory,Lot's O' Nuts,False,19,1338.86,1334.49,-4.37,-0.33,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Standard Class,Secret Factory,Sugar Shack,False,19,1338.86,1334.49,-4.37,-0.33,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Standard Class,Secret Factory,The Other Factory,False,19,1338.86,1334.49,-4.37,-0.33,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Atlantic,Standard Class,Secret Factory,Wicked Choccy's,False,19,1338.86,1334.49,-4.37,-0.33,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,First Class,Secret Factory,Secret Factory,True,1,1006.38,1006.38,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,First Class,Secret Factory,Lot's O' Nuts,False,1,1016.16,1006.38,-9.78,-0.97,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,First Class,Secret Factory,Sugar Shack,False,1,1016.16,1006.38,-9.78,-0.97,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,First Class,Secret Factory,The Other Factory,False,1,1016.16,1006.38,-9.78,-0.97,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,First Class,Secret Factory,Wicked Choccy's,False,1,1016.16,1006.38,-9.78,-0.97,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Second Class,Secret Factory,Secret Factory,True,3,1409.8,1409.8,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Second Class,Secret Factory,Lot's O' Nuts,False,3,1413.06,1409.8,-3.26,-0.23,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Second Class,Secret Factory,Sugar Shack,False,3,1413.06,1409.8,-3.26,-0.23,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Second Class,Secret Factory,The Other Factory,False,3,1413.06,1409.8,-3.26,-0.23,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Second Class,Secret Factory,Wicked Choccy's,False,3,1413.06,1409.8,-3.26,-0.23,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Standard Class,Secret Factory,Secret Factory,True,6,1360.63,1360.63,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Standard Class,Secret Factory,Lot's O' Nuts,False,6,1363.88,1360.63,-3.25,-0.24,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Standard Class,Secret Factory,Sugar Shack,False,6,1363.88,1360.63,-3.25,-0.24,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Standard Class,Secret Factory,The Other Factory,False,6,1363.88,1360.63,-3.25,-0.24,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Gulf,Standard Class,Secret Factory,Wicked Choccy's,False,6,1363.88,1360.63,-3.25,-0.24,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,First Class,Secret Factory,Lot's O' Nuts,False,1,1541.19,1541.19,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,First Class,Secret Factory,Secret Factory,True,1,1541.19,1541.19,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,First Class,Secret Factory,Sugar Shack,False,1,1541.19,1541.19,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,First Class,Secret Factory,The Other Factory,False,1,1541.19,1541.19,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,First Class,Secret Factory,Wicked Choccy's,False,1,1541.19,1541.19,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Same Day,Secret Factory,Lot's O' Nuts,False,1,1497.26,1497.26,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Same Day,Secret Factory,Secret Factory,True,1,1497.26,1497.26,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Same Day,Secret Factory,Sugar Shack,False,1,1497.26,1497.26,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Same Day,Secret Factory,The Other Factory,False,1,1497.26,1497.26,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Same Day,Secret Factory,Wicked Choccy's,False,1,1497.26,1497.26,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Second Class,Secret Factory,Secret Factory,True,5,1347.78,1347.78,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Second Class,Secret Factory,Lot's O' Nuts,False,5,1355.93,1347.78,-8.15,-0.6,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Second Class,Secret Factory,Sugar Shack,False,5,1355.93,1347.78,-8.15,-0.6,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Second Class,Secret Factory,The Other Factory,False,5,1355.93,1347.78,-8.15,-0.6,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Second Class,Secret Factory,Wicked Choccy's,False,5,1355.93,1347.78,-8.15,-0.6,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Standard Class,Secret Factory,Secret Factory,True,8,1278.36,1278.36,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Standard Class,Secret Factory,Lot's O' Nuts,False,8,1283.1,1278.36,-4.74,-0.37,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Standard Class,Secret Factory,Sugar Shack,False,8,1283.1,1278.36,-4.74,-0.37,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Standard Class,Secret Factory,The Other Factory,False,8,1283.1,1278.36,-4.74,-0.37,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Interior,Standard Class,Secret Factory,Wicked Choccy's,False,8,1283.1,1278.36,-4.74,-0.37,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,First Class,Secret Factory,Secret Factory,True,8,1266.09,1266.09,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,First Class,Secret Factory,Lot's O' Nuts,False,8,1270.84,1266.09,-4.75,-0.38,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,First Class,Secret Factory,Sugar Shack,False,8,1270.84,1266.09,-4.75,-0.38,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,First Class,Secret Factory,The Other Factory,False,8,1270.84,1266.09,-4.75,-0.38,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,First Class,Secret Factory,Wicked Choccy's,False,8,1270.84,1266.09,-4.75,-0.38,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Same Day,Secret Factory,Secret Factory,True,1,1088.66,1088.66,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Same Day,Secret Factory,Lot's O' Nuts,False,1,1098.44,1088.66,-9.78,-0.9,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Same Day,Secret Factory,Sugar Shack,False,1,1098.44,1088.66,-9.78,-0.9,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Same Day,Secret Factory,The Other Factory,False,1,1098.44,1088.66,-9.78,-0.9,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Same Day,Secret Factory,Wicked Choccy's,False,1,1098.44,1088.66,-9.78,-0.9,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Second Class,Secret Factory,Lot's O' Nuts,False,6,1522.35,1522.35,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Second Class,Secret Factory,Secret Factory,True,6,1522.35,1522.35,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Second Class,Secret Factory,Sugar Shack,False,6,1522.35,1522.35,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Second Class,Secret Factory,The Other Factory,False,6,1522.35,1522.35,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Second Class,Secret Factory,Wicked Choccy's,False,6,1522.35,1522.35,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Standard Class,Secret Factory,Secret Factory,True,19,1296.95,1296.95,0.0,0.0,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Standard Class,Secret Factory,Lot's O' Nuts,False,19,1304.27,1296.95,-7.32,-0.56,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Standard Class,Secret Factory,Sugar Shack,False,19,1304.27,1296.95,-7.32,-0.56,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Standard Class,Secret Factory,The Other Factory,False,19,1304.27,1296.95,-7.32,-0.56,False
+OTH-LIC-15000,Lickable Wallpaper,Other,Pacific,Standard Class,Secret Factory,Wicked Choccy's,False,19,1304.27,1296.95,-7.32,-0.56,False
+SUG-NER-92000,Nerds,Sugar,Atlantic,Standard Class,Sugar Shack,Secret Factory,False,4,1237.57,1249.29,11.72,0.94,True
+SUG-NER-92000,Nerds,Sugar,Atlantic,Standard Class,Sugar Shack,Lot's O' Nuts,False,4,1249.29,1249.29,0.0,0.0,False
+SUG-NER-92000,Nerds,Sugar,Atlantic,Standard Class,Sugar Shack,Sugar Shack,True,4,1249.29,1249.29,0.0,0.0,False
+SUG-NER-92000,Nerds,Sugar,Atlantic,Standard Class,Sugar Shack,The Other Factory,False,4,1249.29,1249.29,0.0,0.0,False
+SUG-NER-92000,Nerds,Sugar,Atlantic,Standard Class,Sugar Shack,Wicked Choccy's,False,4,1249.29,1249.29,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Second Class,Sugar Shack,Lot's O' Nuts,False,1,1379.97,1379.97,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Second Class,Sugar Shack,Secret Factory,False,1,1379.97,1379.97,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Second Class,Sugar Shack,Sugar Shack,True,1,1379.97,1379.97,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Second Class,Sugar Shack,The Other Factory,False,1,1379.97,1379.97,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Second Class,Sugar Shack,Wicked Choccy's,False,1,1379.97,1379.97,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Standard Class,Sugar Shack,Secret Factory,False,4,1299.03,1304.75,5.72,0.44,True
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Standard Class,Sugar Shack,Lot's O' Nuts,False,4,1304.75,1304.75,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Standard Class,Sugar Shack,Sugar Shack,True,4,1304.75,1304.75,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Standard Class,Sugar Shack,The Other Factory,False,4,1304.75,1304.75,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Atlantic,Standard Class,Sugar Shack,Wicked Choccy's,False,4,1304.75,1304.75,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Second Class,Sugar Shack,Lot's O' Nuts,False,1,1461.6,1461.6,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Second Class,Sugar Shack,Secret Factory,False,1,1461.6,1461.6,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Second Class,Sugar Shack,Sugar Shack,True,1,1461.6,1461.6,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Second Class,Sugar Shack,The Other Factory,False,1,1461.6,1461.6,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Second Class,Sugar Shack,Wicked Choccy's,False,1,1461.6,1461.6,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Standard Class,Sugar Shack,Secret Factory,False,3,1191.75,1210.13,18.38,1.52,True
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Standard Class,Sugar Shack,Lot's O' Nuts,False,3,1210.13,1210.13,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Standard Class,Sugar Shack,Sugar Shack,True,3,1210.13,1210.13,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Standard Class,Sugar Shack,The Other Factory,False,3,1210.13,1210.13,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Interior,Standard Class,Sugar Shack,Wicked Choccy's,False,3,1210.13,1210.13,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Pacific,Second Class,Sugar Shack,Lot's O' Nuts,False,1,1477.95,1477.95,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Pacific,Second Class,Sugar Shack,Secret Factory,False,1,1477.95,1477.95,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Pacific,Second Class,Sugar Shack,Sugar Shack,True,1,1477.95,1477.95,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Pacific,Second Class,Sugar Shack,The Other Factory,False,1,1477.95,1477.95,0.0,0.0,False
+SUG-SWE-91000,SweeTARTS,Sugar,Pacific,Second Class,Sugar Shack,Wicked Choccy's,False,1,1477.95,1477.95,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,First Class,Lot's O' Nuts,Secret Factory,False,109,1330.61,1335.93,5.32,0.4,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,First Class,Lot's O' Nuts,Lot's O' Nuts,True,109,1335.93,1335.93,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,First Class,Lot's O' Nuts,Sugar Shack,False,109,1335.93,1335.93,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,First Class,Lot's O' Nuts,The Other Factory,False,109,1335.93,1335.93,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,False,109,1335.93,1335.93,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,False,22,1407.18,1410.15,2.97,0.21,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,22,1410.15,1410.15,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Sugar Shack,False,22,1410.15,1410.15,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Same Day,Lot's O' Nuts,The Other Factory,False,22,1410.15,1410.15,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,False,22,1410.15,1410.15,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Secret Factory,False,93,1324.24,1328.77,4.53,0.34,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,93,1328.77,1328.77,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Sugar Shack,False,93,1328.77,1328.77,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Second Class,Lot's O' Nuts,The Other Factory,False,93,1328.77,1328.77,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,False,93,1328.77,1328.77,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Secret Factory,False,324,1295.59,1301.42,5.83,0.45,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,324,1301.42,1301.42,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,False,324,1301.42,1301.42,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,False,324,1301.42,1301.42,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,324,1301.42,1301.42,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,First Class,Lot's O' Nuts,Secret Factory,False,39,1315.77,1321.17,5.4,0.41,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,First Class,Lot's O' Nuts,Lot's O' Nuts,True,39,1321.17,1321.17,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,First Class,Lot's O' Nuts,Sugar Shack,False,39,1321.17,1321.17,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,First Class,Lot's O' Nuts,The Other Factory,False,39,1321.17,1321.17,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,False,39,1321.17,1321.17,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Same Day,Lot's O' Nuts,Secret Factory,False,22,1281.29,1285.46,4.17,0.32,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,22,1285.46,1285.46,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Same Day,Lot's O' Nuts,Sugar Shack,False,22,1285.46,1285.46,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Same Day,Lot's O' Nuts,The Other Factory,False,22,1285.46,1285.46,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,False,22,1285.46,1285.46,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Second Class,Lot's O' Nuts,Secret Factory,False,58,1329.33,1334.21,4.88,0.37,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,58,1334.21,1334.21,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Second Class,Lot's O' Nuts,Sugar Shack,False,58,1334.21,1334.21,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Second Class,Lot's O' Nuts,The Other Factory,False,58,1334.21,1334.21,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,False,58,1334.21,1334.21,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,False,172,1294.24,1299.97,5.73,0.44,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,172,1299.97,1299.97,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Sugar Shack,False,172,1299.97,1299.97,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Standard Class,Lot's O' Nuts,The Other Factory,False,172,1299.97,1299.97,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,172,1299.97,1299.97,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,First Class,Lot's O' Nuts,Secret Factory,False,54,1317.04,1322.26,5.22,0.39,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,First Class,Lot's O' Nuts,Lot's O' Nuts,True,54,1322.26,1322.26,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,First Class,Lot's O' Nuts,Sugar Shack,False,54,1322.26,1322.26,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,First Class,Lot's O' Nuts,The Other Factory,False,54,1322.26,1322.26,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,False,54,1322.26,1322.26,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Same Day,Lot's O' Nuts,Secret Factory,False,24,1366.33,1371.35,5.02,0.37,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,24,1371.35,1371.35,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Same Day,Lot's O' Nuts,Sugar Shack,False,24,1371.35,1371.35,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Same Day,Lot's O' Nuts,The Other Factory,False,24,1371.35,1371.35,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,False,24,1371.35,1371.35,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Second Class,Lot's O' Nuts,Secret Factory,False,74,1291.58,1297.2,5.62,0.43,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,74,1297.2,1297.2,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Second Class,Lot's O' Nuts,Sugar Shack,False,74,1297.2,1297.2,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Second Class,Lot's O' Nuts,The Other Factory,False,74,1297.2,1297.2,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,False,74,1297.2,1297.2,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Standard Class,Lot's O' Nuts,Secret Factory,False,258,1301.42,1306.86,5.44,0.42,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,258,1306.86,1306.86,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Standard Class,Lot's O' Nuts,Sugar Shack,False,258,1306.86,1306.86,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Standard Class,Lot's O' Nuts,The Other Factory,False,258,1306.86,1306.86,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,258,1306.86,1306.86,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,First Class,Lot's O' Nuts,Secret Factory,False,74,1343.52,1347.45,3.93,0.29,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,First Class,Lot's O' Nuts,Lot's O' Nuts,True,74,1347.45,1347.45,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,First Class,Lot's O' Nuts,Sugar Shack,False,74,1347.45,1347.45,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,First Class,Lot's O' Nuts,The Other Factory,False,74,1347.45,1347.45,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,False,74,1347.45,1347.45,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Same Day,Lot's O' Nuts,Secret Factory,False,30,1296.15,1300.79,4.64,0.36,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,30,1300.79,1300.79,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Same Day,Lot's O' Nuts,Sugar Shack,False,30,1300.79,1300.79,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Same Day,Lot's O' Nuts,The Other Factory,False,30,1300.79,1300.79,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,False,30,1300.79,1300.79,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Second Class,Lot's O' Nuts,Secret Factory,False,121,1314.77,1320.2,5.43,0.41,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,121,1320.2,1320.2,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Second Class,Lot's O' Nuts,Sugar Shack,False,121,1320.2,1320.2,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Second Class,Lot's O' Nuts,The Other Factory,False,121,1320.2,1320.2,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,False,121,1320.2,1320.2,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,False,344,1310.43,1315.49,5.06,0.38,True
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,344,1315.49,1315.49,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Sugar Shack,False,344,1315.49,1315.49,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Standard Class,Lot's O' Nuts,The Other Factory,False,344,1315.49,1315.49,0.0,0.0,False
+CHO-FUD-51000,Wonka Bar - Fudge Mallows,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,344,1315.49,1315.49,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,First Class,Wicked Choccy's,Secret Factory,False,84,1297.44,1303.22,5.78,0.44,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,First Class,Wicked Choccy's,Lot's O' Nuts,False,84,1303.22,1303.22,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,First Class,Wicked Choccy's,Sugar Shack,False,84,1303.22,1303.22,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,First Class,Wicked Choccy's,The Other Factory,False,84,1303.22,1303.22,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,First Class,Wicked Choccy's,Wicked Choccy's,True,84,1303.22,1303.22,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Same Day,Wicked Choccy's,Secret Factory,False,37,1340.61,1345.57,4.96,0.37,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Same Day,Wicked Choccy's,Lot's O' Nuts,False,37,1345.57,1345.57,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Same Day,Wicked Choccy's,Sugar Shack,False,37,1345.57,1345.57,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Same Day,Wicked Choccy's,The Other Factory,False,37,1345.57,1345.57,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Same Day,Wicked Choccy's,Wicked Choccy's,True,37,1345.57,1345.57,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Second Class,Wicked Choccy's,Secret Factory,False,105,1304.29,1310.31,6.02,0.46,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Second Class,Wicked Choccy's,Lot's O' Nuts,False,105,1310.31,1310.31,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Second Class,Wicked Choccy's,Sugar Shack,False,105,1310.31,1310.31,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Second Class,Wicked Choccy's,The Other Factory,False,105,1310.31,1310.31,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Second Class,Wicked Choccy's,Wicked Choccy's,True,105,1310.31,1310.31,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Standard Class,Wicked Choccy's,Secret Factory,False,413,1301.23,1307.37,6.14,0.47,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Standard Class,Wicked Choccy's,Lot's O' Nuts,False,413,1307.37,1307.37,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Standard Class,Wicked Choccy's,Sugar Shack,False,413,1307.37,1307.37,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Standard Class,Wicked Choccy's,The Other Factory,False,413,1307.37,1307.37,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Atlantic,Standard Class,Wicked Choccy's,Wicked Choccy's,True,413,1307.37,1307.37,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,First Class,Wicked Choccy's,Secret Factory,False,58,1332.18,1337.44,5.26,0.39,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,First Class,Wicked Choccy's,Lot's O' Nuts,False,58,1337.44,1337.44,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,First Class,Wicked Choccy's,Sugar Shack,False,58,1337.44,1337.44,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,First Class,Wicked Choccy's,The Other Factory,False,58,1337.44,1337.44,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,First Class,Wicked Choccy's,Wicked Choccy's,True,58,1337.44,1337.44,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Same Day,Wicked Choccy's,Secret Factory,False,15,1219.41,1225.82,6.41,0.52,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Same Day,Wicked Choccy's,Lot's O' Nuts,False,15,1225.82,1225.82,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Same Day,Wicked Choccy's,Sugar Shack,False,15,1225.82,1225.82,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Same Day,Wicked Choccy's,The Other Factory,False,15,1225.82,1225.82,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Same Day,Wicked Choccy's,Wicked Choccy's,True,15,1225.82,1225.82,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Second Class,Wicked Choccy's,Secret Factory,False,69,1332.86,1338.1,5.24,0.39,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Second Class,Wicked Choccy's,Lot's O' Nuts,False,69,1338.1,1338.1,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Second Class,Wicked Choccy's,Sugar Shack,False,69,1338.1,1338.1,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Second Class,Wicked Choccy's,The Other Factory,False,69,1338.1,1338.1,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Second Class,Wicked Choccy's,Wicked Choccy's,True,69,1338.1,1338.1,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Standard Class,Wicked Choccy's,Secret Factory,False,191,1280.21,1286.13,5.92,0.46,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Standard Class,Wicked Choccy's,Lot's O' Nuts,False,191,1286.13,1286.13,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Standard Class,Wicked Choccy's,Sugar Shack,False,191,1286.13,1286.13,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Standard Class,Wicked Choccy's,The Other Factory,False,191,1286.13,1286.13,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Gulf,Standard Class,Wicked Choccy's,Wicked Choccy's,True,191,1286.13,1286.13,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,First Class,Wicked Choccy's,Secret Factory,False,72,1325.53,1330.52,4.99,0.38,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,First Class,Wicked Choccy's,Lot's O' Nuts,False,72,1330.52,1330.52,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,First Class,Wicked Choccy's,Sugar Shack,False,72,1330.52,1330.52,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,First Class,Wicked Choccy's,The Other Factory,False,72,1330.52,1330.52,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,First Class,Wicked Choccy's,Wicked Choccy's,True,72,1330.52,1330.52,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Same Day,Wicked Choccy's,Secret Factory,False,25,1280.0,1288.09,8.09,0.63,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Same Day,Wicked Choccy's,Lot's O' Nuts,False,25,1288.09,1288.09,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Same Day,Wicked Choccy's,Sugar Shack,False,25,1288.09,1288.09,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Same Day,Wicked Choccy's,The Other Factory,False,25,1288.09,1288.09,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Same Day,Wicked Choccy's,Wicked Choccy's,True,25,1288.09,1288.09,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Second Class,Wicked Choccy's,Secret Factory,False,96,1316.87,1322.66,5.79,0.44,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Second Class,Wicked Choccy's,Lot's O' Nuts,False,96,1322.66,1322.66,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Second Class,Wicked Choccy's,Sugar Shack,False,96,1322.66,1322.66,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Second Class,Wicked Choccy's,The Other Factory,False,96,1322.66,1322.66,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Second Class,Wicked Choccy's,Wicked Choccy's,True,96,1322.66,1322.66,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Standard Class,Wicked Choccy's,Secret Factory,False,306,1320.04,1325.21,5.17,0.39,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Standard Class,Wicked Choccy's,Lot's O' Nuts,False,306,1325.21,1325.21,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Standard Class,Wicked Choccy's,Sugar Shack,False,306,1325.21,1325.21,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Standard Class,Wicked Choccy's,The Other Factory,False,306,1325.21,1325.21,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Interior,Standard Class,Wicked Choccy's,Wicked Choccy's,True,306,1325.21,1325.21,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,First Class,Wicked Choccy's,Secret Factory,False,99,1345.43,1350.64,5.21,0.39,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,First Class,Wicked Choccy's,Lot's O' Nuts,False,99,1350.64,1350.64,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,First Class,Wicked Choccy's,Sugar Shack,False,99,1350.64,1350.64,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,First Class,Wicked Choccy's,The Other Factory,False,99,1350.64,1350.64,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,First Class,Wicked Choccy's,Wicked Choccy's,True,99,1350.64,1350.64,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Same Day,Wicked Choccy's,Secret Factory,False,31,1326.82,1332.33,5.51,0.41,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Same Day,Wicked Choccy's,Lot's O' Nuts,False,31,1332.33,1332.33,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Same Day,Wicked Choccy's,Sugar Shack,False,31,1332.33,1332.33,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Same Day,Wicked Choccy's,The Other Factory,False,31,1332.33,1332.33,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Same Day,Wicked Choccy's,Wicked Choccy's,True,31,1332.33,1332.33,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Second Class,Wicked Choccy's,Secret Factory,False,133,1322.32,1328.1,5.78,0.44,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Second Class,Wicked Choccy's,Lot's O' Nuts,False,133,1328.1,1328.1,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Second Class,Wicked Choccy's,Sugar Shack,False,133,1328.1,1328.1,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Second Class,Wicked Choccy's,The Other Factory,False,133,1328.1,1328.1,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Second Class,Wicked Choccy's,Wicked Choccy's,True,133,1328.1,1328.1,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Standard Class,Wicked Choccy's,Secret Factory,False,403,1307.99,1313.21,5.22,0.4,True
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Standard Class,Wicked Choccy's,Lot's O' Nuts,False,403,1313.21,1313.21,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Standard Class,Wicked Choccy's,Sugar Shack,False,403,1313.21,1313.21,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Standard Class,Wicked Choccy's,The Other Factory,False,403,1313.21,1313.21,0.0,0.0,False
+CHO-MIL-31000,Wonka Bar - Milk Chocolate,Chocolate,Pacific,Standard Class,Wicked Choccy's,Wicked Choccy's,True,403,1313.21,1313.21,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,First Class,Lot's O' Nuts,Secret Factory,False,79,1318.02,1323.1,5.08,0.38,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,First Class,Lot's O' Nuts,Lot's O' Nuts,True,79,1323.1,1323.1,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,First Class,Lot's O' Nuts,Sugar Shack,False,79,1323.1,1323.1,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,First Class,Lot's O' Nuts,The Other Factory,False,79,1323.1,1323.1,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,False,79,1323.1,1323.1,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,False,33,1337.94,1343.55,5.61,0.42,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,33,1343.55,1343.55,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Sugar Shack,False,33,1343.55,1343.55,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Same Day,Lot's O' Nuts,The Other Factory,False,33,1343.55,1343.55,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,False,33,1343.55,1343.55,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Secret Factory,False,91,1325.49,1330.47,4.98,0.37,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,91,1330.47,1330.47,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Sugar Shack,False,91,1330.47,1330.47,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Second Class,Lot's O' Nuts,The Other Factory,False,91,1330.47,1330.47,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,False,91,1330.47,1330.47,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Secret Factory,False,287,1354.28,1358.52,4.24,0.31,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,287,1358.52,1358.52,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,False,287,1358.52,1358.52,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,False,287,1358.52,1358.52,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,287,1358.52,1358.52,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,First Class,Lot's O' Nuts,Secret Factory,False,40,1328.87,1334.07,5.2,0.39,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,First Class,Lot's O' Nuts,Lot's O' Nuts,True,40,1334.07,1334.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,First Class,Lot's O' Nuts,Sugar Shack,False,40,1334.07,1334.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,First Class,Lot's O' Nuts,The Other Factory,False,40,1334.07,1334.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,False,40,1334.07,1334.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Same Day,Lot's O' Nuts,Secret Factory,False,15,1408.82,1410.32,1.5,0.11,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,15,1410.32,1410.32,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Same Day,Lot's O' Nuts,Sugar Shack,False,15,1410.32,1410.32,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Same Day,Lot's O' Nuts,The Other Factory,False,15,1410.32,1410.32,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,False,15,1410.32,1410.32,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Second Class,Lot's O' Nuts,Secret Factory,False,65,1328.33,1333.7,5.37,0.4,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,65,1333.7,1333.7,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Second Class,Lot's O' Nuts,Sugar Shack,False,65,1333.7,1333.7,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Second Class,Lot's O' Nuts,The Other Factory,False,65,1333.7,1333.7,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,False,65,1333.7,1333.7,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,False,176,1300.67,1306.57,5.9,0.45,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,176,1306.57,1306.57,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Sugar Shack,False,176,1306.57,1306.57,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Standard Class,Lot's O' Nuts,The Other Factory,False,176,1306.57,1306.57,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,176,1306.57,1306.57,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,First Class,Lot's O' Nuts,Secret Factory,False,55,1334.43,1339.75,5.32,0.4,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,First Class,Lot's O' Nuts,Lot's O' Nuts,True,55,1339.75,1339.75,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,First Class,Lot's O' Nuts,Sugar Shack,False,55,1339.75,1339.75,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,First Class,Lot's O' Nuts,The Other Factory,False,55,1339.75,1339.75,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,False,55,1339.75,1339.75,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Same Day,Lot's O' Nuts,Secret Factory,False,25,1386.1,1391.18,5.08,0.37,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,25,1391.18,1391.18,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Same Day,Lot's O' Nuts,Sugar Shack,False,25,1391.18,1391.18,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Same Day,Lot's O' Nuts,The Other Factory,False,25,1391.18,1391.18,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,False,25,1391.18,1391.18,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Second Class,Lot's O' Nuts,Secret Factory,False,106,1315.82,1321.57,5.75,0.44,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,106,1321.57,1321.57,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Second Class,Lot's O' Nuts,Sugar Shack,False,106,1321.57,1321.57,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Second Class,Lot's O' Nuts,The Other Factory,False,106,1321.57,1321.57,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,False,106,1321.57,1321.57,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Standard Class,Lot's O' Nuts,Secret Factory,False,266,1338.78,1343.32,4.54,0.34,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,266,1343.32,1343.32,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Standard Class,Lot's O' Nuts,Sugar Shack,False,266,1343.32,1343.32,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Standard Class,Lot's O' Nuts,The Other Factory,False,266,1343.32,1343.32,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,266,1343.32,1343.32,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,First Class,Lot's O' Nuts,Secret Factory,False,112,1335.38,1340.63,5.25,0.39,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,First Class,Lot's O' Nuts,Lot's O' Nuts,True,112,1340.63,1340.63,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,First Class,Lot's O' Nuts,Sugar Shack,False,112,1340.63,1340.63,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,First Class,Lot's O' Nuts,The Other Factory,False,112,1340.63,1340.63,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,False,112,1340.63,1340.63,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Same Day,Lot's O' Nuts,Secret Factory,False,30,1353.14,1357.07,3.93,0.29,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,30,1357.07,1357.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Same Day,Lot's O' Nuts,Sugar Shack,False,30,1357.07,1357.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Same Day,Lot's O' Nuts,The Other Factory,False,30,1357.07,1357.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,False,30,1357.07,1357.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Second Class,Lot's O' Nuts,Secret Factory,False,93,1303.32,1309.07,5.75,0.44,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,93,1309.07,1309.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Second Class,Lot's O' Nuts,Sugar Shack,False,93,1309.07,1309.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Second Class,Lot's O' Nuts,The Other Factory,False,93,1309.07,1309.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,False,93,1309.07,1309.07,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,False,337,1293.22,1299.11,5.89,0.45,True
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,337,1299.11,1299.11,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Sugar Shack,False,337,1299.11,1299.11,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Standard Class,Lot's O' Nuts,The Other Factory,False,337,1299.11,1299.11,0.0,0.0,False
+CHO-NUT-13000,Wonka Bar - Nutty Crunch Surprise,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,337,1299.11,1299.11,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,First Class,Wicked Choccy's,Secret Factory,False,88,1355.18,1359.76,4.58,0.34,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,First Class,Wicked Choccy's,Lot's O' Nuts,False,88,1359.76,1359.76,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,First Class,Wicked Choccy's,Sugar Shack,False,88,1359.76,1359.76,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,First Class,Wicked Choccy's,The Other Factory,False,88,1359.76,1359.76,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,First Class,Wicked Choccy's,Wicked Choccy's,True,88,1359.76,1359.76,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Same Day,Wicked Choccy's,Secret Factory,False,27,1244.61,1253.7,9.09,0.73,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Same Day,Wicked Choccy's,Lot's O' Nuts,False,27,1253.7,1253.7,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Same Day,Wicked Choccy's,Sugar Shack,False,27,1253.7,1253.7,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Same Day,Wicked Choccy's,The Other Factory,False,27,1253.7,1253.7,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Same Day,Wicked Choccy's,Wicked Choccy's,True,27,1253.7,1253.7,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Second Class,Wicked Choccy's,Secret Factory,False,122,1295.91,1300.83,4.92,0.38,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Second Class,Wicked Choccy's,Lot's O' Nuts,False,122,1300.83,1300.83,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Second Class,Wicked Choccy's,Sugar Shack,False,122,1300.83,1300.83,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Second Class,Wicked Choccy's,The Other Factory,False,122,1300.83,1300.83,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Second Class,Wicked Choccy's,Wicked Choccy's,True,122,1300.83,1300.83,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Standard Class,Wicked Choccy's,Secret Factory,False,321,1319.83,1324.87,5.04,0.38,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Standard Class,Wicked Choccy's,Lot's O' Nuts,False,321,1324.87,1324.87,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Standard Class,Wicked Choccy's,Sugar Shack,False,321,1324.87,1324.87,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Standard Class,Wicked Choccy's,The Other Factory,False,321,1324.87,1324.87,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Atlantic,Standard Class,Wicked Choccy's,Wicked Choccy's,True,321,1324.87,1324.87,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,First Class,Wicked Choccy's,Secret Factory,False,41,1320.94,1326.06,5.12,0.39,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,First Class,Wicked Choccy's,Lot's O' Nuts,False,41,1326.06,1326.06,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,First Class,Wicked Choccy's,Sugar Shack,False,41,1326.06,1326.06,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,First Class,Wicked Choccy's,The Other Factory,False,41,1326.06,1326.06,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,First Class,Wicked Choccy's,Wicked Choccy's,True,41,1326.06,1326.06,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Same Day,Wicked Choccy's,Secret Factory,False,15,1364.08,1367.83,3.75,0.27,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Same Day,Wicked Choccy's,Lot's O' Nuts,False,15,1367.83,1367.83,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Same Day,Wicked Choccy's,Sugar Shack,False,15,1367.83,1367.83,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Same Day,Wicked Choccy's,The Other Factory,False,15,1367.83,1367.83,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Same Day,Wicked Choccy's,Wicked Choccy's,True,15,1367.83,1367.83,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Second Class,Wicked Choccy's,Secret Factory,False,61,1319.59,1324.33,4.74,0.36,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Second Class,Wicked Choccy's,Lot's O' Nuts,False,61,1324.33,1324.33,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Second Class,Wicked Choccy's,Sugar Shack,False,61,1324.33,1324.33,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Second Class,Wicked Choccy's,The Other Factory,False,61,1324.33,1324.33,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Second Class,Wicked Choccy's,Wicked Choccy's,True,61,1324.33,1324.33,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Standard Class,Wicked Choccy's,Secret Factory,False,213,1323.71,1328.34,4.63,0.35,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Standard Class,Wicked Choccy's,Lot's O' Nuts,False,213,1328.34,1328.34,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Standard Class,Wicked Choccy's,Sugar Shack,False,213,1328.34,1328.34,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Standard Class,Wicked Choccy's,The Other Factory,False,213,1328.34,1328.34,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Gulf,Standard Class,Wicked Choccy's,Wicked Choccy's,True,213,1328.34,1328.34,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,First Class,Wicked Choccy's,Secret Factory,False,52,1347.64,1351.66,4.02,0.3,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,First Class,Wicked Choccy's,Lot's O' Nuts,False,52,1351.66,1351.66,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,First Class,Wicked Choccy's,Sugar Shack,False,52,1351.66,1351.66,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,First Class,Wicked Choccy's,The Other Factory,False,52,1351.66,1351.66,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,First Class,Wicked Choccy's,Wicked Choccy's,True,52,1351.66,1351.66,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Same Day,Wicked Choccy's,Secret Factory,False,28,1342.07,1346.65,4.58,0.34,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Same Day,Wicked Choccy's,Lot's O' Nuts,False,28,1346.65,1346.65,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Same Day,Wicked Choccy's,Sugar Shack,False,28,1346.65,1346.65,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Same Day,Wicked Choccy's,The Other Factory,False,28,1346.65,1346.65,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Same Day,Wicked Choccy's,Wicked Choccy's,True,28,1346.65,1346.65,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Second Class,Wicked Choccy's,Secret Factory,False,81,1336.56,1341.02,4.46,0.33,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Second Class,Wicked Choccy's,Lot's O' Nuts,False,81,1341.02,1341.02,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Second Class,Wicked Choccy's,Sugar Shack,False,81,1341.02,1341.02,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Second Class,Wicked Choccy's,The Other Factory,False,81,1341.02,1341.02,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Second Class,Wicked Choccy's,Wicked Choccy's,True,81,1341.02,1341.02,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Standard Class,Wicked Choccy's,Secret Factory,False,290,1303.08,1308.27,5.19,0.4,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Standard Class,Wicked Choccy's,Lot's O' Nuts,False,290,1308.27,1308.27,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Standard Class,Wicked Choccy's,Sugar Shack,False,290,1308.27,1308.27,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Standard Class,Wicked Choccy's,The Other Factory,False,290,1308.27,1308.27,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Interior,Standard Class,Wicked Choccy's,Wicked Choccy's,True,290,1308.27,1308.27,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,First Class,Wicked Choccy's,Secret Factory,False,96,1352.25,1355.82,3.57,0.26,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,First Class,Wicked Choccy's,Lot's O' Nuts,False,96,1355.82,1355.82,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,First Class,Wicked Choccy's,Sugar Shack,False,96,1355.82,1355.82,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,First Class,Wicked Choccy's,The Other Factory,False,96,1355.82,1355.82,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,First Class,Wicked Choccy's,Wicked Choccy's,True,96,1355.82,1355.82,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Same Day,Wicked Choccy's,Secret Factory,False,45,1350.71,1354.65,3.94,0.29,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Same Day,Wicked Choccy's,Lot's O' Nuts,False,45,1354.65,1354.65,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Same Day,Wicked Choccy's,Sugar Shack,False,45,1354.65,1354.65,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Same Day,Wicked Choccy's,The Other Factory,False,45,1354.65,1354.65,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Same Day,Wicked Choccy's,Wicked Choccy's,True,45,1354.65,1354.65,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Second Class,Wicked Choccy's,Secret Factory,False,123,1332.05,1337.2,5.15,0.39,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Second Class,Wicked Choccy's,Lot's O' Nuts,False,123,1337.2,1337.2,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Second Class,Wicked Choccy's,Sugar Shack,False,123,1337.2,1337.2,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Second Class,Wicked Choccy's,The Other Factory,False,123,1337.2,1337.2,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Second Class,Wicked Choccy's,Wicked Choccy's,True,123,1337.2,1337.2,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Standard Class,Wicked Choccy's,Secret Factory,False,412,1307.03,1312.3,5.27,0.4,True
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Standard Class,Wicked Choccy's,Lot's O' Nuts,False,412,1312.3,1312.3,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Standard Class,Wicked Choccy's,Sugar Shack,False,412,1312.3,1312.3,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Standard Class,Wicked Choccy's,The Other Factory,False,412,1312.3,1312.3,0.0,0.0,False
+CHO-TRI-54000,Wonka Bar - Triple Dazzle Caramel,Chocolate,Pacific,Standard Class,Wicked Choccy's,Wicked Choccy's,True,412,1312.3,1312.3,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,First Class,Lot's O' Nuts,Secret Factory,False,112,1330.48,1335.48,5.0,0.37,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,First Class,Lot's O' Nuts,Lot's O' Nuts,True,112,1335.48,1335.48,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,First Class,Lot's O' Nuts,Sugar Shack,False,112,1335.48,1335.48,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,First Class,Lot's O' Nuts,The Other Factory,False,112,1335.48,1335.48,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,False,112,1335.48,1335.48,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,False,34,1290.75,1296.84,6.09,0.47,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,34,1296.84,1296.84,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Sugar Shack,False,34,1296.84,1296.84,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Same Day,Lot's O' Nuts,The Other Factory,False,34,1296.84,1296.84,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,False,34,1296.84,1296.84,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Secret Factory,False,120,1314.77,1320.36,5.59,0.42,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,120,1320.36,1320.36,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Sugar Shack,False,120,1320.36,1320.36,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Second Class,Lot's O' Nuts,The Other Factory,False,120,1320.36,1320.36,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,False,120,1320.36,1320.36,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Secret Factory,False,357,1304.79,1310.53,5.74,0.44,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,357,1310.53,1310.53,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Sugar Shack,False,357,1310.53,1310.53,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,The Other Factory,False,357,1310.53,1310.53,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,357,1310.53,1310.53,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,First Class,Lot's O' Nuts,Secret Factory,False,47,1345.03,1349.15,4.12,0.31,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,First Class,Lot's O' Nuts,Lot's O' Nuts,True,47,1349.15,1349.15,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,First Class,Lot's O' Nuts,Sugar Shack,False,47,1349.15,1349.15,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,First Class,Lot's O' Nuts,The Other Factory,False,47,1349.15,1349.15,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,First Class,Lot's O' Nuts,Wicked Choccy's,False,47,1349.15,1349.15,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Same Day,Lot's O' Nuts,Secret Factory,False,12,1376.96,1379.81,2.85,0.21,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,12,1379.81,1379.81,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Same Day,Lot's O' Nuts,Sugar Shack,False,12,1379.81,1379.81,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Same Day,Lot's O' Nuts,The Other Factory,False,12,1379.81,1379.81,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Same Day,Lot's O' Nuts,Wicked Choccy's,False,12,1379.81,1379.81,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Second Class,Lot's O' Nuts,Secret Factory,False,60,1346.45,1350.47,4.02,0.3,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,60,1350.47,1350.47,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Second Class,Lot's O' Nuts,Sugar Shack,False,60,1350.47,1350.47,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Second Class,Lot's O' Nuts,The Other Factory,False,60,1350.47,1350.47,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Second Class,Lot's O' Nuts,Wicked Choccy's,False,60,1350.47,1350.47,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Secret Factory,False,191,1289.88,1295.92,6.04,0.47,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,191,1295.92,1295.92,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Sugar Shack,False,191,1295.92,1295.92,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Standard Class,Lot's O' Nuts,The Other Factory,False,191,1295.92,1295.92,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Gulf,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,191,1295.92,1295.92,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,First Class,Lot's O' Nuts,Secret Factory,False,56,1364.9,1368.44,3.54,0.26,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,First Class,Lot's O' Nuts,Lot's O' Nuts,True,56,1368.44,1368.44,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,First Class,Lot's O' Nuts,Sugar Shack,False,56,1368.44,1368.44,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,First Class,Lot's O' Nuts,The Other Factory,False,56,1368.44,1368.44,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,First Class,Lot's O' Nuts,Wicked Choccy's,False,56,1368.44,1368.44,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Same Day,Lot's O' Nuts,Secret Factory,False,15,1335.5,1340.33,4.83,0.36,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,15,1340.33,1340.33,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Same Day,Lot's O' Nuts,Sugar Shack,False,15,1340.33,1340.33,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Same Day,Lot's O' Nuts,The Other Factory,False,15,1340.33,1340.33,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,False,15,1340.33,1340.33,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Second Class,Lot's O' Nuts,Secret Factory,False,95,1311.39,1316.84,5.45,0.41,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,95,1316.84,1316.84,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Second Class,Lot's O' Nuts,Sugar Shack,False,95,1316.84,1316.84,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Second Class,Lot's O' Nuts,The Other Factory,False,95,1316.84,1316.84,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Second Class,Lot's O' Nuts,Wicked Choccy's,False,95,1316.84,1316.84,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Standard Class,Lot's O' Nuts,Secret Factory,False,293,1327.1,1331.9,4.8,0.36,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,293,1331.9,1331.9,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Standard Class,Lot's O' Nuts,Sugar Shack,False,293,1331.9,1331.9,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Standard Class,Lot's O' Nuts,The Other Factory,False,293,1331.9,1331.9,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Interior,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,293,1331.9,1331.9,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,First Class,Lot's O' Nuts,Secret Factory,False,113,1333.08,1338.03,4.95,0.37,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,First Class,Lot's O' Nuts,Lot's O' Nuts,True,113,1338.03,1338.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,First Class,Lot's O' Nuts,Sugar Shack,False,113,1338.03,1338.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,First Class,Lot's O' Nuts,The Other Factory,False,113,1338.03,1338.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,First Class,Lot's O' Nuts,Wicked Choccy's,False,113,1338.03,1338.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Same Day,Lot's O' Nuts,Secret Factory,False,43,1347.22,1351.96,4.74,0.35,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Same Day,Lot's O' Nuts,Lot's O' Nuts,True,43,1351.96,1351.96,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Same Day,Lot's O' Nuts,Sugar Shack,False,43,1351.96,1351.96,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Same Day,Lot's O' Nuts,The Other Factory,False,43,1351.96,1351.96,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Same Day,Lot's O' Nuts,Wicked Choccy's,False,43,1351.96,1351.96,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Second Class,Lot's O' Nuts,Secret Factory,False,144,1282.25,1289.03,6.78,0.53,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Second Class,Lot's O' Nuts,Lot's O' Nuts,True,144,1289.03,1289.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Second Class,Lot's O' Nuts,Sugar Shack,False,144,1289.03,1289.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Second Class,Lot's O' Nuts,The Other Factory,False,144,1289.03,1289.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Second Class,Lot's O' Nuts,Wicked Choccy's,False,144,1289.03,1289.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Secret Factory,False,372,1318.87,1324.03,5.16,0.39,True
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Lot's O' Nuts,True,372,1324.03,1324.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Sugar Shack,False,372,1324.03,1324.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Standard Class,Lot's O' Nuts,The Other Factory,False,372,1324.03,1324.03,0.0,0.0,False
+CHO-SCR-58000,Wonka Bar -Scrumdiddlyumptious,Chocolate,Pacific,Standard Class,Lot's O' Nuts,Wicked Choccy's,False,372,1324.03,1324.03,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,First Class,Secret Factory,Secret Factory,True,8,1280.56,1280.56,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,First Class,Secret Factory,Lot's O' Nuts,False,8,1288.06,1280.56,-7.5,-0.59,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,First Class,Secret Factory,Sugar Shack,False,8,1288.06,1280.56,-7.5,-0.59,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,First Class,Secret Factory,The Other Factory,False,8,1288.06,1280.56,-7.5,-0.59,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,First Class,Secret Factory,Wicked Choccy's,False,8,1288.06,1280.56,-7.5,-0.59,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Same Day,Secret Factory,Lot's O' Nuts,False,1,1583.95,1583.95,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Same Day,Secret Factory,Secret Factory,True,1,1583.95,1583.95,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Same Day,Secret Factory,Sugar Shack,False,1,1583.95,1583.95,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Same Day,Secret Factory,The Other Factory,False,1,1583.95,1583.95,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Same Day,Secret Factory,Wicked Choccy's,False,1,1583.95,1583.95,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Second Class,Secret Factory,Lot's O' Nuts,False,3,1498.9,1498.9,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Second Class,Secret Factory,Secret Factory,True,3,1498.9,1498.9,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Second Class,Secret Factory,Sugar Shack,False,3,1498.9,1498.9,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Second Class,Secret Factory,The Other Factory,False,3,1498.9,1498.9,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Second Class,Secret Factory,Wicked Choccy's,False,3,1498.9,1498.9,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Standard Class,Secret Factory,Secret Factory,True,25,1300.29,1300.29,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Standard Class,Secret Factory,Lot's O' Nuts,False,25,1308.19,1300.29,-7.9,-0.61,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Standard Class,Secret Factory,Sugar Shack,False,25,1308.19,1300.29,-7.9,-0.61,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Standard Class,Secret Factory,The Other Factory,False,25,1308.19,1300.29,-7.9,-0.61,False
+OTH-GUM-21000,Wonka Gum,Other,Atlantic,Standard Class,Secret Factory,Wicked Choccy's,False,25,1308.19,1300.29,-7.9,-0.61,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,First Class,Secret Factory,Secret Factory,True,4,1255.47,1255.47,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,First Class,Secret Factory,Lot's O' Nuts,False,4,1267.49,1255.47,-12.02,-0.96,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,First Class,Secret Factory,Sugar Shack,False,4,1267.49,1255.47,-12.02,-0.96,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,First Class,Secret Factory,The Other Factory,False,4,1267.49,1255.47,-12.02,-0.96,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,First Class,Secret Factory,Wicked Choccy's,False,4,1267.49,1255.47,-12.02,-0.96,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Same Day,Secret Factory,Lot's O' Nuts,False,1,1471.75,1471.75,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Same Day,Secret Factory,Secret Factory,True,1,1471.75,1471.75,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Same Day,Secret Factory,Sugar Shack,False,1,1471.75,1471.75,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Same Day,Secret Factory,The Other Factory,False,1,1471.75,1471.75,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Same Day,Secret Factory,Wicked Choccy's,False,1,1471.75,1471.75,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Second Class,Secret Factory,Secret Factory,True,9,1373.68,1373.68,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Second Class,Secret Factory,Lot's O' Nuts,False,9,1382.48,1373.68,-8.8,-0.64,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Second Class,Secret Factory,Sugar Shack,False,9,1382.48,1373.68,-8.8,-0.64,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Second Class,Secret Factory,The Other Factory,False,9,1382.48,1373.68,-8.8,-0.64,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Second Class,Secret Factory,Wicked Choccy's,False,9,1382.48,1373.68,-8.8,-0.64,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Standard Class,Secret Factory,Secret Factory,True,12,1245.6,1245.6,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Standard Class,Secret Factory,Lot's O' Nuts,False,12,1256.61,1245.6,-11.01,-0.88,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Standard Class,Secret Factory,Sugar Shack,False,12,1256.61,1245.6,-11.01,-0.88,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Standard Class,Secret Factory,The Other Factory,False,12,1256.61,1245.6,-11.01,-0.88,False
+OTH-GUM-21000,Wonka Gum,Other,Gulf,Standard Class,Secret Factory,Wicked Choccy's,False,12,1256.61,1245.6,-11.01,-0.88,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,First Class,Secret Factory,Secret Factory,True,9,1284.05,1284.05,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,First Class,Secret Factory,Lot's O' Nuts,False,9,1295.82,1284.05,-11.77,-0.92,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,First Class,Secret Factory,Sugar Shack,False,9,1295.82,1284.05,-11.77,-0.92,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,First Class,Secret Factory,The Other Factory,False,9,1295.82,1284.05,-11.77,-0.92,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,First Class,Secret Factory,Wicked Choccy's,False,9,1295.82,1284.05,-11.77,-0.92,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Same Day,Secret Factory,Secret Factory,True,2,1223.98,1223.98,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Same Day,Secret Factory,Lot's O' Nuts,False,2,1228.29,1223.98,-4.31,-0.35,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Same Day,Secret Factory,Sugar Shack,False,2,1228.29,1223.98,-4.31,-0.35,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Same Day,Secret Factory,The Other Factory,False,2,1228.29,1223.98,-4.31,-0.35,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Same Day,Secret Factory,Wicked Choccy's,False,2,1228.29,1223.98,-4.31,-0.35,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Second Class,Secret Factory,Secret Factory,True,4,1163.14,1163.14,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Second Class,Secret Factory,Lot's O' Nuts,False,4,1181.16,1163.14,-18.02,-1.55,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Second Class,Secret Factory,Sugar Shack,False,4,1181.16,1163.14,-18.02,-1.55,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Second Class,Secret Factory,The Other Factory,False,4,1181.16,1163.14,-18.02,-1.55,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Second Class,Secret Factory,Wicked Choccy's,False,4,1181.16,1163.14,-18.02,-1.55,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Standard Class,Secret Factory,Secret Factory,True,14,1339.07,1339.07,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Standard Class,Secret Factory,Lot's O' Nuts,False,14,1346.95,1339.07,-7.88,-0.59,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Standard Class,Secret Factory,Sugar Shack,False,14,1346.95,1339.07,-7.88,-0.59,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Standard Class,Secret Factory,The Other Factory,False,14,1346.95,1339.07,-7.88,-0.59,False
+OTH-GUM-21000,Wonka Gum,Other,Interior,Standard Class,Secret Factory,Wicked Choccy's,False,14,1346.95,1339.07,-7.88,-0.59,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,First Class,Secret Factory,Secret Factory,True,6,1269.85,1269.85,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,First Class,Secret Factory,Lot's O' Nuts,False,6,1281.86,1269.85,-12.01,-0.95,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,First Class,Secret Factory,Sugar Shack,False,6,1281.86,1269.85,-12.01,-0.95,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,First Class,Secret Factory,The Other Factory,False,6,1281.86,1269.85,-12.01,-0.95,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,First Class,Secret Factory,Wicked Choccy's,False,6,1281.86,1269.85,-12.01,-0.95,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Same Day,Secret Factory,Secret Factory,True,3,1310.88,1310.88,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Same Day,Secret Factory,Lot's O' Nuts,False,3,1314.14,1310.88,-3.26,-0.25,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Same Day,Secret Factory,Sugar Shack,False,3,1314.14,1310.88,-3.26,-0.25,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Same Day,Secret Factory,The Other Factory,False,3,1314.14,1310.88,-3.26,-0.25,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Same Day,Secret Factory,Wicked Choccy's,False,3,1314.14,1310.88,-3.26,-0.25,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Second Class,Secret Factory,Secret Factory,True,8,1358.37,1358.37,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Second Class,Secret Factory,Lot's O' Nuts,False,8,1369.15,1358.37,-10.78,-0.79,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Second Class,Secret Factory,Sugar Shack,False,8,1369.15,1358.37,-10.78,-0.79,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Second Class,Secret Factory,The Other Factory,False,8,1369.15,1358.37,-10.78,-0.79,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Second Class,Secret Factory,Wicked Choccy's,False,8,1369.15,1358.37,-10.78,-0.79,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Standard Class,Secret Factory,Secret Factory,True,11,1271.82,1271.82,0.0,0.0,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Standard Class,Secret Factory,Lot's O' Nuts,False,11,1282.64,1271.82,-10.82,-0.85,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Standard Class,Secret Factory,Sugar Shack,False,11,1282.64,1271.82,-10.82,-0.85,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Standard Class,Secret Factory,The Other Factory,False,11,1282.64,1271.82,-10.82,-0.85,False
+OTH-GUM-21000,Wonka Gum,Other,Pacific,Standard Class,Secret Factory,Wicked Choccy's,False,11,1282.64,1271.82,-10.82,-0.85,False
