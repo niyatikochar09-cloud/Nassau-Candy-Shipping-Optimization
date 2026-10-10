@@ -78,6 +78,7 @@ Nassau-Candy-Shipping-Optimization/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
 ## Project Reports
 
 The following reports document the project objectives, analytical methodology, predictive modeling results, factory reallocation recommendations, and optimization findings.
@@ -86,4 +87,5 @@ The following reports document the project objectives, analytical methodology, p
 * **Executive Summary (Word):** [View Executive Summary (DOCX)](reports/Executive_Summary_Nassau_Candy.docx)
 * **Research Report (PDF):** [View Complete Research Report](reports/Nassau_Candy_Factory_Optimization_Research_Report.pdf)
 * **Research Report (Word):** [View Research Report (DOCX)](reports/Nassau_Candy_Factory_Optimization_Research_Report.docx)
+
 
