@@ -55,13 +55,24 @@ Gradient Boosting Regressor was selected as the final model because it achieved 
 
 ## Dashboard
 
-The Streamlit dashboard includes:
+The project includes a live, interactive Streamlit dashboard for factory reallocation and shipping optimization.
 
-- Executive Overview
-- Factory Recommendations
-- Scenario Simulator
-- Route Performance
-- Predictive Model
+**[Launch Live Dashboard](https://d5vwhphcu2ffkoa5naey7n.streamlit.app/)**
+
+### Dashboard Features
+
+- **Executive Overview:** Displays key dataset statistics and shipping performance.
+- **Factory Recommendations:** Highlights potential factory reallocation opportunities.
+- **Scenario Simulator:** Evaluates alternative factory assignment scenarios.
+- **Route Performance:** Analyzes shipping performance across routes and regions.
+- **Predictive Model:** Presents machine-learning-based shipping lead-time predictions.
+
+### Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run dashboard/app.py
+```
 
 ## Project Structure
 
